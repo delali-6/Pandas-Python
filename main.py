@@ -10,14 +10,6 @@ data = {
 df = pd.DataFrame(data)
 df
 
-# Filter students who passed (score >= 80)
-passed_students = df[df['Score'] >= 80]
-print(passed_students)
-
-# Filter Science students
-science_students = df[df['Course'] == 'Science']
-print(science_students)
-
-# Two conditions needs brackets
-passed_science_students = df[(df['Score'] >= 80) & (df['Course'] == 'Science')]
-print(passed_science_students)
+print(df.iloc[0])  # First row
+print(df[['Name','Score']])  # Column name of second column
+print(df['Course'].iloc[4]) # Course of the last row
