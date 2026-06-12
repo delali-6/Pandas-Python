@@ -1,0 +1,1001 @@
+StudentID,StudentName,Course,City,AttendancePercent,Assignment1Score,Assignment2Score,ExamScore,StudyHoursPerWeek,ProjectSubmitted,EnrolmentDate
+1002,Zara King,Computing,Coventry,85,65.4,95.8,70.5,3.9,Yes,10/09/2024
+1003,Ben Jones,Computing,Bristol,63.1,55.7,70.1,52.8,7.6,Yes,22/09/2024
+1004,Anaya Ali,Digital Media,Liverpool,77.2,95.5,69.8,79.2,3.6,Yes,13/09/2024
+1005,Archie Scott,Digital Media,Sheffield,78.1,62.3,45.7,99,3.3,Yes,26/09/2024
+1006,Jasmine Khan,IT,Leeds,68.2,84.4,63.9,68.1,3.7,Yes,22/09/2024
+1007,Yasmin Green,Business IT,Cardiff,87.9,62.1,80,100,4.3,Yes,05/09/2024
+1008,Anaya Jones,IT,Nottingham,78.7,36,66.2,71.4,5,No,23/09/2024
+1009,Kai Campbell,IT,Manchester,52.9,79.2,78.7,62.3,3.8,No,22/09/2024
+1010,Daniel Johnson,Business IT,Sheffield,79,98.2,64.2,86.5,3.7,Yes,05/09/2024
+1011,James Foster,Computing,Coventry,83.4,68.2,67.5,70.5,5.6,Yes,17/09/2024
+1032,Thomas Moore,Computing,Reading,96.9,72.6,76.4,97.3,10.5,Yes,26/09/2024
+1013,Abigail Robinson,Cyber Security,Coventry,79.8,74.9,66.1,62.6,9.2,Yes,09/09/2024
+1014,Ryan Foster,Business IT,Cardiff,66.8,72.1,77,56.7,6.4,Yes,25/09/2024
+1015,Amir Khan,Business IT,Birmingham,79.1,78.4,60.1,74.7,5,No,16/09/2024
+1016,Zara Adams,Software Development,Leeds,87.2,,84,73.2,7.7,Yes,14/09/2024
+1017,Poppy Hall,Cyber Security,Reading,93,69.5,70.6,62,3.5,Yes,19/09/2024
+1018,Samuel Morris,Software Development,Sheffield,100,88.2,97.5,77.9,6,Yes,23/09/2024
+1019,Grace Robinson,Digital Media,Coventry,93,79.4,62.4,65.1,5.1,Yes,10/09/2024
+1020,Jasmine White,Software Development,London,95.3,30,83.2,75.5,5.3,Yes,10/09/2024
+1021,Grace Johnson,IT,Nottingham,87.6,52.5,44.9,43.3,5.1,No,11/09/2024
+1022,Harry Campbell,Software Development,Reading,77.9,60.2,68.9,52.4,3,Yes,22/09/2024
+1023,Amelia Begum,Digital Media,Liverpool,88.5,,94.8,98.6,6.7,Yes,19/09/2024
+1024,Daniel Patel,Computing,Bristol,89.1,63.6,68.6,78.4,6.8,No,03/09/2024
+1025,Blake Jackson,Business IT,Cardiff,97.1,,79.9,65.4,7.5,Yes,15/09/2024
+1026,Mohammed Wright,Digital Media,Reading,95.8,73.8,63.2,71.6,4.2,No,17/09/2024
+1027,James Young,Business IT,Leeds,81.7,88.8,64.2,76.7,9,Yes,18/09/2024
+1028,Adam Campbell,Software Development,Liverpool,87,84.5,99.7,69.3,6.4,Yes,25/09/2024
+1029,Bradley Jones,Software Development,Leeds,78.5,90.4,99.4,70.3,1.6,No,23/09/2024
+1030,Joshua Shah,IT,Birmingham,74.8,67.9,62,64.8,7.6,Yes,11/09/2024
+1031,Logan Thomas,Business IT,Manchester,72,62.7,71.7,69.9,4.7,Yes,22/09/2024
+1943,Mia Ali,Computing,Nottingham,93.7,43.6,66,97,9.6,Yes,12/09/2024
+1033,Chloe Ahmed,Computing,,64.6,55.7,48,78.1,1.9,Yes,14/09/2024
+1034,Blake Williams,Cyber Security,Manchester,71,76.7,54.5,52.6,6,No,05/09/2024
+1035,Olivia Shah,Business IT,Sheffield,57.5,82.6,65.3,72.7,7,No,22/09/2024
+1036,George Griffiths,Cyber Security,Reading,69.8,67.7,81.3,62.6,8,Yes,09/09/2024
+2500,Molly King,IT,Nottingham,72.5,74.5,49.2,84.6,2.1,No,26/09/2024
+1038,Jacob White,IT,Cardiff,70.4,49.4,67.4,79.2,0.5,Yes,10/09/2024
+1039,Mia Walker,Computing,Nottingham,100,52.3,46.4,63.5,2.3,Yes,15/09/2024
+1040,Logan Hill,Computing,Bristol,70.1,56,93.1,63.9,11.1,Yes,04/09/2024
+1041,Layla Evans,Digital Media,Leicester,81.7,70.8,72.4,96.8,4,Yes,05/09/2024
+1042,Lily Collins,Digital Media,Reading,73.4,65.5,51.6,76.2,7.1,Yes,11/09/2024
+1043,Ethan Baker,Digital Media,Leicester,79.8,90.1,66.2,90.2,6.8,Yes,03/09/2024
+1044,Sophia Smith,IT,Cardiff,60.6,72.7,66.9,89.3,4.5,No,24/09/2024
+1045,Imogen Shah,Business IT,Sheffield,80.9,55.6,79.4,53.3,4.5,No,10/09/2024
+1046,Logan Hughes,Computing,Bristol,86.4,73.7,79.5,73.8,3.2,No,24/09/2024
+1047,Emily Begum,IT,Cardiff,60.5,71.6,65.7,51.2,1,Yes,09/09/2024
+1048,Lily Moore,Cyber Security,Bristol,80.1,50.8,81,59.4,8.6,Yes,10/09/2024
+1049,Yasmin White,Digital Media,Leeds,81.7,84.6,66.8,32.1,3.4,Yes,08/09/2024
+1050,Yasmin Carter,IT,London,77.6,51,65.9,89.8,8.7,Yes,02/09/2024
+1051,Ella Allen,IT,Nottingham,82,73.1,56.3,71,4.8,No,11/09/2024
+1293,Mia Lewis,Computing,Cardiff,91.2,55.7,61.5,96.8,9.5,Yes,04/09/2024
+1053,Bethany White,Computing,Leeds,78.6,75.3,73,87.7,6.7,Yes,17/09/2024
+1054,Poppy Baker,Digital Media,Liverpool,88.4,74.3,55.7,52.7,0.6,Yes,19/09/2024
+1055,Chloe Baker,Computing,Liverpool,62,56.4,83.4,62.8,3.3,Yes,10/09/2024
+1056,Alex Lewis,Business IT,Coventry,80.8,70,77.3,95.9,4.2,Yes,02/09/2024
+1057,Alex White,Business IT,Nottingham,67.2,68.3,64.8,100,1.2,No,17/09/2024
+1058,Daisy Hughes,IT,Nottingham,86.9,62.5,100,76.9,2.5,Yes,12/09/2024
+1059,Thomas Young,Software Development,Leicester,87.3,59.4,85.7,75.7,3.3,Yes,03/09/2024
+1060,Olivia Thompson,Cyber Security,London,70,87.6,69.2,70.6,6.7,Yes,19/09/2024
+1061,Bradley Mitchell,Software Development,Leicester,85.4,56.7,69,53.7,4.6,No,09/09/2024
+1062,Thomas Ward,Software Development,Birmingham,99.6,66.2,92.9,41.9,8.2,Yes,02/09/2024
+1063,Sarah Clarke,Cyber Security,Nottingham,71.2,83.6,59.3,65.8,4.6,Yes,20/09/2024
+1064,Jasmine Ward,Cyber Security,Cardiff,85.4,55.5,83.6,86.9,0.5,Yes,03/09/2024
+1065,Bethany Martin,Computing,Nottingham,85.1,70.7,93.9,43.1,9,Yes,21/09/2024
+1066,Yasmin Jones,Software Development,Leicester,87.7,65.7,52.1,72.6,4.8,Yes,22/09/2024
+1067,Ben Lewis,Software Development,Leicester,77.6,64.3,77.1,80.2,7.4,Yes,13/09/2024
+1068,Ella Collins,Computing,Coventry,80.8,82.4,59.9,71.8,10.6,Yes,16/09/2024
+1069,Ruby Hall,Digital Media,Manchester,100,84,82.1,69.1,8.9,Yes,11/09/2024
+1070,George Jones,Cyber Security,Coventry,75,64.3,89.8,96.1,5.9,Yes,02/09/2024
+1071,Amelia Scott,Business IT,Liverpool,80.3,60.7,74.7,60.7,6,No,26/09/2024
+1072,Alex Harris,Business IT,London,86.8,51.5,62.7,79.9,6.4,No,07/09/2024
+1073,Liam Murphy,Cyber Security,Liverpool,83.1,61.2,78.2,55.7,6.7,Yes,05/09/2024
+1074,Finley Thomas,Business IT,Cardiff,61.9,93,67.6,53.5,8.5,Yes,19/09/2024
+1075,Harry Robinson,IT,Leicester,83.9,67.7,72.3,73.1,7.6,No,09/09/2024
+1076,Jacob Smith,IT,Manchester,69.6,73.4,72.9,77,5.3,Yes,19/09/2024
+1077,Daniel King,Digital Media,Nottingham,59.6,49.6,68.6,91.1,5.8,Yes,13/09/2024
+1078,Leo Allen,IT,Leeds,90.7,100,,72.8,4.4,Yes,22/09/2024
+1079,Grace Carter,Business IT,Leeds,96,,74.2,79.4,6.8,Yes,21/09/2024
+1815,,Computing,Leicester,97.9,69.1,83.7,96.6,10.8,Yes,21/09/2024
+1081,Molly Murphy,Computing,Birmingham,60.1,73.4,66.3,69.4,0.5,Yes,23/09/2024
+1082,Amir Moore,Business IT,Cardiff,78.4,64.1,59.2,74.6,4.8,Yes,21/09/2024
+1083,Jessica Jones,Software Development,Sheffield,75.4,84.8,52.7,80.6,7.9,No,19/09/2024
+1084,Freya King,IT,Nottingham,89.6,53.1,83.5,65.4,7.2,Yes,06/09/2024
+1085,Ava Begum,Cyber Security,Reading,77.6,46.3,57,63.5,3.3,Yes,13/09/2024
+1086,Amelia Hall,Digital Media,Bristol,75.3,82.3,80.7,79.1,7.6,No,13/09/2024
+1087,Finley Wright,Cyber Security,Sheffield,99.1,66.2,59,56.9,10.7,No,10/09/2024
+1088,Kai Jackson,Computing,Manchester,83.2,58,67.1,82.5,7.9,Yes,25/09/2024
+1089,Daisy Johnson,IT,Bristol,81.4,53.4,75.4,72.3,7.1,Yes,10/09/2024
+1090,Molly Griffiths,Computing,Sheffield,91.7,80.4,80.3,65.6,8.8,Yes,23/09/2024
+1091,Amir Adams,Computing,Leeds,81,48,70.5,76.9,2.8,Yes,19/09/2024
+1092,Leo Baker,IT,Reading,79.2,72.4,72.6,94.5,3,Yes,20/09/2024
+1093,Mia Ahmed,Software Development,Manchester,83.8,52.9,85.3,42.6,9.2,Yes,20/09/2024
+1094,Kai Evans,IT,Manchester,90.2,86.3,79.8,61,5,No,13/09/2024
+1095,George Brown,Computing,Leeds,81.9,76.6,72.3,64.5,8.5,Yes,20/09/2024
+1096,Jessica Singh,IT,Nottingham,74.3,82.8,77.4,66.3,7.1,Yes,18/09/2024
+1097,Lily Hall,Computing,Birmingham,69.2,59.8,57.2,74.1,6.6,Yes,20/09/2024
+1098,Daniel Allen,Cyber Security,Bristol,56.4,75.4,71.4,67.6,4.8,Yes,16/09/2024
+1099,Isla Jones,IT,Bristol,77.4,66.2,64.6,60.7,3.8,Yes,10/09/2024
+1100,Daniel Hughes,Computing,Leicester,91.3,77.6,80.6,91.2,4.6,Yes,21/09/2024
+1101,Joshua Young,Computing,Reading,87.6,51.3,66.2,54.3,3.8,Yes,13/09/2024
+1102,Sarah Davies,Computing,Manchester,69.8,76.1,80.3,74,2.5,Yes,25/09/2024
+1103,Callum Scott,IT,Manchester,86.1,88.1,53.7,48.7,5.2,Yes,25/09/2024
+1104,Oscar Evans,Cyber Security,Liverpool,75.8,92.2,67.5,77.6,4.4,Yes,20/09/2024
+1105,Logan Morris,Cyber Security,Manchester,87.1,48.7,77.9,78.1,2.2,Yes,05/09/2024
+1106,Ava White,Computing,Nottingham,61.6,76.1,68.2,38.7,7.5,Yes,16/09/2024
+1107,Maya Morris,IT,Cardiff,89.7,69.6,99.3,75.7,7.1,No,06/09/2024
+1108,Cameron White,Digital Media,Nottingham,65.5,48.8,54.7,79.7,5.5,Yes,25/09/2024
+1109,George Harris,Computing,Leeds,61.9,81.2,66.4,71.8,8,Yes,18/09/2024
+1612,Sophia Walker,Computing,Nottingham,99.3,58.9,79,96.3,11.4,Yes,11/09/2024
+1111,Abigail Jones,Software Development,London,58.6,42.4,72,72.5,5.8,No,22/09/2024
+1112,Cameron Ali,IT,Bristol,69.2,73.1,65.1,72.8,2.7,Yes,22/09/2024
+1113,Poppy Ali,IT,London,84.9,43.8,67.9,81.1,1.8,Yes,03/09/2024
+1114,Amelia Smith,IT,Birmingham,91.1,74.3,59.8,57.8,6.8,No,12/09/2024
+1115,Tyler Griffiths,Business IT,Reading,68.6,76.3,79.6,69.7,5,Yes,11/09/2024
+1116,Olivia Jackson,Cyber Security,Reading,83.9,78.3,63.8,81.2,5.3,No,03/09/2024
+1117,Daisy Ahmed,Computing,Coventry,73.8,57.4,78.2,77.3,3.9,No,03/09/2024
+1118,Lily Martin,Business IT,Coventry,70.8,78.1,80.7,65.5,7.1,No,02/09/2024
+1119,Brooke Green,Business IT,Reading,45,84.4,66.1,100,4.1,No,16/09/2024
+1120,Jasmine Taylor,IT,Birmingham,79.3,59.8,68.9,67.5,6.6,Yes,24/09/2024
+1121,Brooke Davies,Business IT,Leeds,79.6,67.1,61.1,65.5,6.3,Yes,04/09/2024
+1122,Samuel Murphy,IT,Cardiff,65.9,72.3,67.8,89.8,4.7,Yes,23/09/2024
+1123,Ella Williams,Software Development,Cardiff,56.9,69.5,79.1,55.2,4.8,No,09/09/2024
+1124,Ava Green,Computing,Sheffield,85.2,67.2,88.6,65.3,4.6,Yes,20/09/2024
+1125,Kai Roberts,Computing,London,100,85.5,73.2,59.1,6.1,Yes,02/09/2024
+1126,Jacob Moore,IT,Leicester,92.9,58.1,79.3,66.9,4,Yes,16/09/2024
+1127,Jasmine Walker,Software Development,Bristol,84.8,68.9,61.4,83.1,4.2,Yes,09/09/2024
+1128,Molly Foster,Software Development,Manchester,90.2,81.8,46.2,68.4,3.8,Yes,18/09/2024
+1129,Ben Khan,Cyber Security,Leeds,81.2,,85.3,75.1,7.9,Yes,19/09/2024
+1130,Harry Walker,IT,Cardiff,68.2,61.2,81.1,61.7,4.6,Yes,04/09/2024
+1131,Brooke Carter,Software Development,Cardiff,56.4,97.3,61.3,65.3,7.3,Yes,03/09/2024
+1132,Ryan Murphy,Cyber Security,Coventry,90.8,75.6,67.9,81.1,4.4,Yes,21/09/2024
+1133,Thomas Patel,Cyber Security,Coventry,72.8,92.7,59.8,85.4,8.5,No,25/09/2024
+1134,Harry Smith,Business IT,Coventry,77.2,51.6,63,62.6,4.6,Yes,21/09/2024
+1135,Grace Ali,Cyber Security,Reading,80.7,71.6,69.3,77.4,4.4,No,17/09/2024
+1136,Cameron Murphy,Computing,Bristol,68.5,84.8,71.8,44.9,9.5,Yes,19/09/2024
+1137,Harry Shah,Cyber Security,Leeds,77.3,80.8,100,55.7,5.8,Yes,17/09/2024
+1138,Isaac Hall,Computing,Leicester,62,43.4,65.2,59.8,6.7,No,06/09/2024
+1139,Layla Martin,Digital Media,Reading,71.7,71.1,44.9,62.2,4.9,Yes,20/09/2024
+1140,Finley Singh,Computing,Birmingham,73.4,52.3,81.9,89.4,7.7,Yes,19/09/2024
+1141,Ryan Moore,Digital Media,Liverpool,72.1,86.9,76.4,66.7,2.6,No,03/09/2024
+1142,Dylan Ali,Software Development,Cardiff,72.9,,64.5,69.8,0.5,Yes,03/09/2024
+1143,Joshua Hall,Cyber Security,Leicester,66.6,65.9,93.7,59.7,3.8,Yes,07/09/2024
+1144,Aaron Ward,IT,Liverpool,80.4,50.1,63.7,82.4,9.5,No,15/09/2024
+1145,Ella Carter,Cyber Security,Leeds,89.8,70.5,63.1,73.6,3.8,Yes,10/09/2024
+1146,Brooke Mitchell,IT,Cardiff,91.8,58.5,47,88.3,2.6,Yes,22/09/2024
+1147,Finley Carter,Cyber Security,Nottingham,78.8,52.3,58.9,78.9,2.4,Yes,08/09/2024
+1148,Ava Murphy,Cyber Security,Reading,81.5,51.3,92.4,90,8.2,No,08/09/2024
+1149,Tyler Martin,Computing,Leeds,76.4,55.3,82.5,61,6.5,Yes,20/09/2024
+1150,Abigail Khan,IT,London,81,69.5,56.2,82.4,5.9,Yes,03/09/2024
+1151,Aisha Hall,IT,Manchester,82,34.2,64.4,58.4,7.7,No,14/09/2024
+1152,Zara Carter,Digital Media,Bristol,78.5,100,97.6,64.3,6.1,No,02/09/2024
+1153,Zara Lewis,Cyber Security,Leeds,79.2,82,67.5,100,5.1,No,15/09/2024
+1154,George Edwards,Computing,Coventry,73.7,87.2,75.4,68.7,4.6,No,14/09/2024
+1155,Amir Carter,Cyber Security,Liverpool,81.4,98.8,58,61.5,5.9,Yes,06/09/2024
+1156,Isaac Allen,Cyber Security,Coventry,58.9,90.8,53.9,59.6,3.5,Yes,13/09/2024
+1157,Jasmine Thompson,IT,Manchester,76.8,77.9,63.3,67.5,6,Yes,16/09/2024
+1158,William Carter,IT,Liverpool,100,75.4,88.6,94,3.1,Yes,25/09/2024
+1159,Alex Baker,Computing,Coventry,76.7,53.6,48,73.6,2.3,Yes,08/09/2024
+1160,Samuel Foster,Digital Media,Reading,100,78.1,97.6,47.1,4,Yes,19/09/2024
+1161,Sienna Mitchell,Computing,Reading,58.3,,81.9,63.1,2.7,Yes,06/09/2024
+1162,Molly Hall,Computing,Bristol,86.3,72.1,87.5,70.5,8.3,No,12/09/2024
+1163,Sarah Mitchell,Computing,Bristol,87.5,88.1,45.3,72.3,2,Yes,03/09/2024
+1164,Amelia White,Computing,Manchester,74.9,75.2,64.7,69.5,5,Yes,13/09/2024
+1165,Samuel Taylor,Cyber Security,London,67.9,67.3,91.1,72.4,3.4,Yes,24/09/2024
+1166,Blake Brown,Cyber Security,Leeds,77,75.7,85.7,74.4,3.6,Yes,13/09/2024
+1167,Finley Harris,Digital Media,Birmingham,66.6,48.9,72.3,63.8,3.1,Yes,02/09/2024
+1168,Joshua Roberts,Software Development,Birmingham,88.6,93,55.5,73.8,10.4,Yes,20/09/2024
+1169,Isaac Patel,Cyber Security,London,88.2,92.9,80.1,70.9,8,No,04/09/2024
+1281,Samuel Robinson,Computing,Leicester,95.4,51.1,83.7,96.2,8.1,Yes,05/09/2024
+1171,Archie Hughes,Digital Media,Coventry,89.6,66.3,72.4,66.6,4.2,Yes,13/09/2024
+1172,Logan Begum,Business IT,Liverpool,100,76.1,53.9,77.1,6,Yes,22/09/2024
+1173,Ben Adams,Software Development,Nottingham,73.4,77.9,77.2,76.7,2.4,Yes,02/09/2024
+1174,Aaron Hall,IT,Birmingham,83.4,67.4,56.8,80.4,5.2,Yes,23/09/2024
+1175,Sienna Clarke,Computing,Cardiff,77.5,80.8,74.3,57,8.9,Yes,21/09/2024
+1176,Maya Hughes,Business IT,Cardiff,73,73.9,61.9,56.9,9.1,No,21/09/2024
+1177,Ethan Moore,IT,Cardiff,88,67.9,67.3,54.7,3.7,Yes,14/09/2024
+1178,Zara Cooper,Digital Media,Sheffield,75.2,90.7,75.3,79,4.7,No,24/09/2024
+1179,Sienna Carter,Digital Media,Leeds,78.9,77.5,61.7,76.3,2.2,Yes,19/09/2024
+1180,Zara Ali,Business IT,Bristol,83.7,62.9,51.1,44.2,2.3,Yes,09/09/2024
+1181,Alex Roberts,Software Development,Leicester,61.7,43,61.5,91.8,6.2,Yes,25/09/2024
+1182,Oscar Johnson,IT,Leicester,82.1,57,64.5,68.2,5.7,Yes,15/09/2024
+1183,Chloe Jackson,IT,Nottingham,81.9,54.6,68.9,75.2,4.8,Yes,03/09/2024
+1184,Blake Thomas,Business IT,Reading,67.1,70.3,79.4,79.6,7.9,No,09/09/2024
+1185,Oliver Khan,Computing,Coventry,87.9,60.5,71,70.6,5.7,Yes,04/09/2024
+1186,Liam Hill,Computing,Birmingham,87.7,68,95.8,50.3,4.7,Yes,21/09/2024
+1187,Poppy Shah,Computing,Leicester,76.5,59.5,68.2,66.1,6.1,Yes,07/09/2024
+1188,Cameron Roberts,IT,Manchester,83.1,53.9,73.2,98.3,2.6,Yes,07/09/2024
+1189,Oscar Shah,Computing,Bristol,91.1,65.5,76,83,2.1,Yes,17/09/2024
+1190,Ava Roberts,Computing,Leeds,73,67.3,81.3,61.7,5,Yes,25/09/2024
+1191,Bradley Griffiths,Business IT,Bristol,61.1,64.3,72.8,54.9,5.8,No,22/09/2024
+1192,Oscar Green,IT,Birmingham,90.3,31.5,86.3,71.7,3.6,No,20/09/2024
+1193,Noah Collins,Digital Media,Leeds,86.7,48.3,58.6,62.6,4.1,No,11/09/2024
+1194,Bethany Carter,Software Development,Cardiff,75.2,100,53.7,74.9,4.4,No,09/09/2024
+1195,Maya Morgan,Computing,Leicester,77.7,83.4,55.8,75.9,6.1,Yes,10/09/2024
+1196,Sarah Hill,Digital Media,Reading,75.7,99,89.7,55.7,2.5,No,19/09/2024
+1197,Sienna Griffiths,IT,Liverpool,71.4,84.5,59.3,63.5,3.3,Yes,05/09/2024
+1198,Daisy Martin,Cyber Security,Cardiff,92.9,75.9,89.5,83.7,7.9,Yes,10/09/2024
+1199,David Allen,IT,,76.2,48.4,67.3,72.6,6.7,Yes,20/09/2024
+1037,Dami of course,Computing,Gloucester,97,94,96,98,9.5,Yes,12/09/2024
+1200,Kai Young,Computing,Cardiff,83.3,64.9,59.2,70.8,6.3,No,05/09/2024
+1201,Cameron Smith,Software Development,Manchester,91.9,77,66.5,64.6,4.3,No,15/09/2024
+1202,Brooke Robinson,Business IT,Bristol,85.1,81,69.6,77.2,6.8,Yes,19/09/2024
+1203,Adam Taylor,Software Development,Leeds,66,68.3,71.9,58.3,10.1,No,17/09/2024
+1204,Archie Murphy,Software Development,London,86.9,100,69.7,88.8,8.8,Yes,13/09/2024
+1205,Archie Ahmed,Digital Media,London,78.8,73.7,91.7,79.2,1.9,Yes,15/09/2024
+1206,Yasmin Shah,Computing,Birmingham,78.4,64.3,85.4,77.4,9.5,Yes,14/09/2024
+1207,Anaya Harris,Digital Media,Reading,86.8,67.2,72.9,100,7.8,Yes,23/09/2024
+1208,Cameron Thompson,Computing,Nottingham,89.1,85.1,67.8,74.6,1.5,Yes,06/09/2024
+1209,Brooke Williams,Software Development,Bristol,82.1,60.3,89.4,78.6,4.4,Yes,13/09/2024
+1210,Daisy Green,Business IT,Coventry,77,67,66.7,69.9,5.1,No,02/09/2024
+1211,Daniel Cooper,Software Development,London,56,60.6,71.3,55.4,4.2,No,10/09/2024
+1212,Amelia Cooper,Computing,,89.3,100,68.5,84.2,6.4,Yes,11/09/2024
+1213,Ethan Hall,Cyber Security,,78.5,60.3,50.3,97.5,9.5,No,19/09/2024
+1214,Mohammed Ahmed,Computing,Bristol,78.7,56.9,58.1,82.6,5.4,No,14/09/2024
+1215,William Foster,IT,London,85,68.8,71.3,74.1,5.8,Yes,13/09/2024
+1216,Sophia Carter,Digital Media,Cardiff,100,85,79,36.8,7.8,Yes,10/09/2024
+1217,Jessica Hill,Cyber Security,Leeds,85.6,74,75,51.8,6.1,Yes,15/09/2024
+1218,Oscar Harris,Cyber Security,Birmingham,84.5,89.9,83.7,62.7,8.8,Yes,08/09/2024
+1219,Grace Jackson,IT,London,75.2,60.9,75,69.8,3.1,No,09/09/2024
+1220,Brooke Adams,Computing,Leeds,85.8,86.5,88.4,56.3,7.7,Yes,20/09/2024
+1221,Anaya Davies,Software Development,Nottingham,80.8,64.7,84.5,49.1,9.4,Yes,20/09/2024
+1222,Noah Cooper,IT,Manchester,97.3,67.8,84.9,81.5,8,Yes,22/09/2024
+1223,Amir Begum,IT,Manchester,65.2,79.1,74.7,59.9,8.3,Yes,14/09/2024
+1224,Sarah Jackson,Software Development,Sheffield,78.5,65.5,80.6,88.6,5.8,Yes,26/09/2024
+1225,Leo Williams,Digital Media,Leeds,84,69,66.8,60.8,7.5,Yes,09/09/2024
+1226,Dylan Cooper,Computing,Bristol,56.5,77,54.6,72.9,5,Yes,20/09/2024
+1227,Sienna Patel,IT,Nottingham,82.6,71,70.1,68.3,3.2,Yes,06/09/2024
+1228,Jessica Allen,Computing,Coventry,80.4,68,65.6,83.1,7.2,Yes,04/09/2024
+1229,Bethany Hughes,IT,Manchester,96.7,66.8,56.2,77.7,3.2,Yes,19/09/2024
+1230,Finley Taylor,Digital Media,Manchester,79.8,54.7,85.5,67.6,6.7,Yes,24/09/2024
+1231,Aisha Cooper,Digital Media,Coventry,81.6,86.5,78.1,67,5.2,No,07/09/2024
+1232,Joshua Martin,Computing,Leeds,70.9,70,76.5,69.7,6.4,Yes,14/09/2024
+1233,Mohammed Morgan,Software Development,Bristol,74.1,68.3,48.2,73.6,3.2,Yes,04/09/2024
+1234,Harry Brown,Computing,Manchester,65.4,75.9,67.4,99.8,7.9,No,12/09/2024
+1235,Adam Lewis,Software Development,Manchester,69.8,61.3,82.2,74.1,7.7,Yes,25/09/2024
+1236,Bethany Allen,IT,Sheffield,77.2,74,66.1,60.5,7.2,Yes,23/09/2024
+1237,Eva Collins,Digital Media,Birmingham,73.6,71.1,74.9,54.6,6.8,Yes,14/09/2024
+1238,Oscar Ali,IT,Nottingham,73.7,67.9,94.8,62.6,4.8,Yes,05/09/2024
+1239,Freya Phillips,Computing,Cardiff,83.8,57.7,48.5,63.8,0.5,Yes,04/09/2024
+1240,Tyler Wright,Cyber Security,Coventry,82.6,89.1,95.4,37.6,7.1,Yes,08/09/2024
+1241,Oliver Davies,Software Development,Leicester,87.9,84,63.8,90.4,5.7,Yes,19/09/2024
+1242,Aaron Wilson,Digital Media,Coventry,74.6,56.6,70.2,63.2,6,Yes,26/09/2024
+1243,Bethany Wilson,IT,Sheffield,95.5,51.8,70.4,90.3,2.9,Yes,14/09/2024
+1244,Aisha Khan,Software Development,Bristol,73.6,68.5,68.4,59.1,5.6,Yes,12/09/2024
+1245,Sarah Thompson,Digital Media,Leeds,98.8,96.3,51,79.2,5,Yes,08/09/2024
+1246,Sarah White,Cyber Security,Bristol,90.3,76.8,59,76.5,7,Yes,06/09/2024
+1247,Dylan Davies,Software Development,Leeds,83.3,61.6,46.2,78.5,4.8,No,18/09/2024
+1248,George Johnson,Cyber Security,Nottingham,70.6,81.6,93.8,58.9,4.1,Yes,10/09/2024
+1249,Lucas Allen,Computing,Coventry,80.4,61.1,73.5,79.8,6.2,Yes,26/09/2024
+1250,Callum Smith,Computing,London,94.4,72.9,88.2,90.7,4,Yes,10/09/2024
+1251,Hannah Edwards,Cyber Security,Leicester,63.8,67.7,70.7,69.1,11.6,No,19/09/2024
+1252,Blake Moore,Computing,Liverpool,78.9,53.6,53.6,68.5,9.1,No,11/09/2024
+1253,Amir Wright,Business IT,Coventry,71,76.5,73.7,72.4,3.3,No,14/09/2024
+1254,Emily Hughes,Business IT,Leeds,79.2,62.8,56.2,37.1,6.2,Yes,11/09/2024
+1391,Yasmin Ahmed,Computing,Leicester,91.5,95.2,73.3,96,9.7,Yes,14/09/2024
+1256,Joshua Johnson,IT,Liverpool,71.3,63.7,73.4,88.7,6.4,Yes,21/09/2024
+1257,Logan Murphy,IT,London,83.3,64.6,83,69.4,10.4,No,06/09/2024
+1258,Sarah Hughes,Digital Media,Manchester,77.1,68.3,75.8,60.8,5.8,No,20/09/2024
+1259,Ben Carter,Digital Media,Leicester,68.5,75.9,70.9,70.2,1.5,No,12/09/2024
+1260,Aaliyah Singh,Business IT,Leeds,75.2,65.8,61.7,79.5,7,Yes,07/09/2024
+1261,Poppy Walker,Cyber Security,Sheffield,66.9,,83,69.6,7.1,Yes,14/09/2024
+1262,Fatima Walker,Computing,Sheffield,73,76.1,82,67.7,4.8,No,10/09/2024
+1263,Amelia Taylor,Computing,London,84.2,71.9,66.2,72.5,5.2,Yes,23/09/2024
+1264,Cameron King,Business IT,Birmingham,96.1,52,70.8,65,9.4,Yes,21/09/2024
+1265,Ethan Jackson,Digital Media,Liverpool,86.4,83.9,87.5,58.6,3.6,Yes,04/09/2024
+1266,Daniel Begum,Business IT,Birmingham,80,69,66.5,69.6,7,No,11/09/2024
+1267,Alex Hall,IT,Leicester,72.1,89.7,88.7,83.3,9.8,Yes,07/09/2024
+1268,Imogen Walker,Computing,Bristol,85.1,75.4,83.1,80.8,4.9,Yes,17/09/2024
+1269,Bradley Carter,Digital Media,London,100,67.1,93,88.7,2.2,Yes,21/09/2024
+1270,Callum Moore,Software Development,Birmingham,80.6,80.7,63.6,88.8,6.7,Yes,23/09/2024
+1271,Kai Murphy,Cyber Security,,70.4,60.6,70,54.1,3.5,Yes,19/09/2024
+1272,Daisy Morris,Business IT,Nottingham,65.5,73.5,68.5,59.6,5.4,No,03/09/2024
+1273,George Begum,Cyber Security,Coventry,58.5,78.2,66.3,72.3,1.8,Yes,15/09/2024
+1274,Jacob Morris,Cyber Security,Leicester,79.3,54.9,46.1,66.9,5.9,Yes,16/09/2024
+1275,Liam Turner,Cyber Security,Birmingham,79.5,60.8,59.7,92.1,7.2,Yes,24/09/2024
+1276,Mohammed Brown,IT,Leeds,77,81.5,97.6,57.9,7,No,24/09/2024
+1277,Oscar Mitchell,Digital Media,Sheffield,87.6,81.4,68.3,69.2,9.5,Yes,18/09/2024
+1278,Dylan Walker,Business IT,Birmingham,70.7,56.6,82.6,82.3,3.4,Yes,21/09/2024
+1279,Kai Hall,Cyber Security,Manchester,88.7,83.5,82.9,59,7,Yes,25/09/2024
+1280,Jack Thomas,IT,Leicester,67.4,83.8,86,78.7,5.1,Yes,22/09/2024
+1635,Amelia Turner,Computing,Leicester,90.4,76.1,68.7,95.6,9.1,Yes,25/09/2024
+1282,Ethan Griffiths,Business IT,Manchester,71,89.6,70.1,73,6,No,08/09/2024
+1283,Blake Shah,Software Development,Reading,71.7,66.5,64.8,58.9,1,Yes,24/09/2024
+1284,Jasmine Phillips,Computing,Reading,77.7,69.8,88.7,75.5,0.5,No,22/09/2024
+1285,Zara Ward,Digital Media,Reading,88,67.6,80,89,5.9,Yes,14/09/2024
+1286,Daisy Robinson,Business IT,London,85.3,60.1,88.5,74.6,6.4,Yes,03/09/2024
+1287,Jacob Morgan,Business IT,Sheffield,66.9,87.7,68.5,79,5.7,Yes,15/09/2024
+1288,Fatima Taylor,IT,Bristol,82.8,61.4,,58.3,3.5,Yes,26/09/2024
+1289,Oscar Foster,Software Development,Coventry,86.2,65.2,96.2,77.2,2.2,Yes,10/09/2024
+1290,Lily Morris,Business IT,Nottingham,92.3,59.1,72.8,62.9,3.6,Yes,05/09/2024
+1291,Anaya Edwards,Digital Media,Leeds,86.6,59.8,83.8,80.6,3.4,No,22/09/2024
+1292,Adam Mitchell,Digital Media,London,50.2,73.7,74.1,74.9,2.4,Yes,09/09/2024
+1970,Kai Ali,Computing,Leicester,90.9,,73.3,95.2,8,Yes,21/09/2024
+1294,Jacob Scott,Computing,Nottingham,64.4,52.2,87.1,78,5.6,Yes,25/09/2024
+1295,Chloe Harris,Digital Media,Reading,62.5,43.8,96.4,72,5.7,Yes,14/09/2024
+1296,Layla Edwards,IT,Leicester,81.5,74.3,66.7,77.8,8.3,Yes,05/09/2024
+1297,Ruby Smith,Cyber Security,Liverpool,75.1,61.3,77.1,87.5,7.5,Yes,09/09/2024
+1298,Jasmine Morgan,Cyber Security,Coventry,75.9,59.2,56.5,80.4,7.8,No,15/09/2024
+1299,Oliver Griffiths,Business IT,Manchester,74.8,59.5,59.1,71.9,5.7,Yes,22/09/2024
+1300,Cameron Patel,Computing,Reading,66.4,73.9,68.9,72.4,5.5,Yes,02/09/2024
+1301,Fatima Ali,Cyber Security,Sheffield,89.8,60,68.1,63.5,1.4,Yes,11/09/2024
+1302,Liam Morris,Computing,Leeds,93.5,83.6,54.2,63.6,4.4,Yes,16/09/2024
+1303,Chloe Ward,Business IT,Bristol,97,75.5,73.1,80.9,5.7,Yes,13/09/2024
+1304,Alex Smith,IT,Reading,95.3,88.1,68.7,66.6,9.2,Yes,20/09/2024
+1305,Hannah Jones,Software Development,Leeds,68.8,68.8,81.3,58.1,2.1,Yes,06/09/2024
+1306,Isaac Edwards,Computing,Manchester,80.7,56.6,86.5,77.5,6.5,No,25/09/2024
+1307,Daisy Smith,Business IT,London,79.2,76.8,66.6,65.9,0.5,Yes,07/09/2024
+1308,Abigail Walker,Business IT,Liverpool,77.2,78.6,69.3,57.6,3.6,Yes,09/09/2024
+1309,Ella Shah,Digital Media,Liverpool,87.3,87.2,86.3,61.2,7.4,Yes,02/09/2024
+1310,Molly Young,Computing,Birmingham,83.5,82.3,95.2,46.8,2.4,Yes,26/09/2024
+1052,Molly Scott,Computing,Coventry,95.6,72.4,86.4,94.8,9.9,Yes,15/09/2024
+1312,Bethany Lewis,Computing,Nottingham,77.5,72.8,45.8,86.3,6.9,Yes,10/09/2024
+1313,Tyler Campbell,Cyber Security,Cardiff,69.5,53.6,67.4,82.2,7.3,Yes,19/09/2024
+1314,Maya White,Computing,Sheffield,92.2,73.1,58.5,57.8,7.5,Yes,11/09/2024
+1315,Cameron Taylor,Computing,Leeds,62.9,76.6,76.4,78.3,3.5,Yes,24/09/2024
+1316,Aaliyah Wright,Computing,Manchester,84.8,52.7,74.9,79.3,6.3,Yes,21/09/2024
+1317,Tyler Hall,Digital Media,Coventry,96.7,77.9,78.3,84.6,10,No,18/09/2024
+1318,Tyler Thompson,Computing,Manchester,80.4,64.4,61.9,48.6,0.5,Yes,10/09/2024
+1319,Ethan Murphy,Computing,Reading,83.3,72.4,67.1,95.7,7.2,No,10/09/2024
+1320,Mia Roberts,Computing,Manchester,73.8,64.9,75.1,80.5,6.2,No,18/09/2024
+1321,Hannah Thompson,Cyber Security,Cardiff,61.6,61.4,73.4,34.3,2.7,Yes,02/09/2024
+1322,Freya Wright,IT,Bristol,82.1,68.2,71.8,75.2,3.7,Yes,23/09/2024
+1323,Dylan Moore,IT,Leeds,85.9,63.7,89.2,63.1,7.7,Yes,25/09/2024
+1324,Grace Shah,IT,Birmingham,72.1,73.8,75.3,85.7,4.5,Yes,19/09/2024
+1325,Isaac Morgan,Computing,Sheffield,77.5,79,68.5,67.8,6.1,Yes,18/09/2024
+1326,Poppy Campbell,Digital Media,Nottingham,67,69.3,73.4,63.7,3.2,Yes,13/09/2024
+1327,Ryan Shah,IT,Manchester,71.4,70.1,68.5,57.1,6.5,Yes,06/09/2024
+1328,Imogen Wright,Computing,Cardiff,71.9,75.3,65.8,77.1,1.6,Yes,02/09/2024
+1329,Tyler Patel,Business IT,Nottingham,74.6,85.9,61,64.2,5,No,17/09/2024
+1330,Harry Johnson,IT,Sheffield,75.4,79.1,68.2,77.1,5.5,No,21/09/2024
+1331,Dylan Williams,IT,Bristol,73.1,56.7,69.9,40.7,3.9,Yes,06/09/2024
+1332,Molly Singh,Digital Media,Cardiff,85.1,72.9,68.2,75.3,6.8,Yes,11/09/2024
+1333,Olivia Williams,Software Development,Bristol,78.8,54.2,65.1,72.6,6.1,Yes,10/09/2024
+1334,David Khan,Computing,Birmingham,74.5,83.6,66.7,92.7,6.7,Yes,04/09/2024
+1335,Lucas Harris,Computing,Reading,75.7,87.8,87.6,89.6,8.8,No,12/09/2024
+1336,Imogen Phillips,Cyber Security,Reading,81.9,53.1,68.1,47.6,6.4,No,15/09/2024
+1337,Layla Moore,Cyber Security,Birmingham,69.2,74.4,71.4,81.9,9.7,No,13/09/2024
+1338,Samuel Harris,Computing,Cardiff,79,75.2,56.6,75.1,2.4,Yes,19/09/2024
+1339,Lucas Jones,Computing,Birmingham,71.8,74.5,74.4,39.4,6.6,Yes,25/09/2024
+1340,Anaya Cooper,Computing,Birmingham,63.4,58.2,59.4,67.3,8.6,Yes,02/09/2024
+1341,Blake Hall,IT,Reading,77.7,70.6,73.7,71.3,5.8,No,17/09/2024
+1342,Joshua Begum,Business IT,Manchester,90.2,91.1,79.2,84.2,6.5,Yes,10/09/2024
+1343,Grace Jones,Business IT,Nottingham,79.6,100,78.1,91.7,8.3,Yes,14/09/2024
+1344,Alex Ward,Software Development,Sheffield,88.1,80.7,81.5,66,7.5,Yes,23/09/2024
+1345,Jessica Adams,Computing,Liverpool,69.5,63.4,73.4,100,2.1,Yes,06/09/2024
+1346,Ben Thomas,Digital Media,Leicester,70.8,81.3,76.1,79.9,7.7,Yes,17/09/2024
+1347,Layla Wright,Software Development,Reading,84.9,88.6,67.9,75.9,7.5,Yes,11/09/2024
+1348,Zara Jackson,IT,Nottingham,71.5,66.1,94.4,85.3,3.7,Yes,06/09/2024
+1349,Poppy Adams,Business IT,Sheffield,73.9,75.7,95.5,73.2,5.6,No,23/09/2024
+1350,Sienna Williams,Cyber Security,Coventry,71,67.2,84.1,67.2,6.3,Yes,03/09/2024
+1351,Ethan Brown,Cyber Security,Birmingham,94.4,73.7,61.4,80.5,3,Yes,09/09/2024
+1352,Eva Smith,Cyber Security,Birmingham,68.7,51.8,75.4,55.2,8.3,No,13/09/2024
+1353,William Ali,Business IT,Liverpool,85.8,74.3,66.5,69.2,5.6,Yes,23/09/2024
+1354,Molly Ward,Computing,Leicester,89.8,52.7,63.7,65.7,2.9,Yes,07/09/2024
+1355,Yasmin Scott,Cyber Security,Bristol,90.4,60.6,95.2,69.5,2.4,No,12/09/2024
+1356,Hannah Johnson,Software Development,Nottingham,87.2,70.2,71.9,81.2,5.7,Yes,06/09/2024
+1357,Finley Edwards,Business IT,London,82.6,39.1,83.8,41.8,2.2,Yes,05/09/2024
+1358,Liam Robinson,IT,Liverpool,78,72.1,67.1,44.7,8.5,No,25/09/2024
+1359,Bethany Scott,Digital Media,London,77.3,53.1,75.6,72.2,5.6,No,15/09/2024
+1360,Aaron Singh,Business IT,Cardiff,68.9,84.9,76.9,62.4,8.1,Yes,24/09/2024
+1361,Maya Martin,Business IT,Coventry,71.2,69.7,69,83.6,6,Yes,03/09/2024
+1362,Oliver Williams,Digital Media,Manchester,82.4,61.4,73,55.6,7.2,Yes,25/09/2024
+1363,Oliver Hill,Digital Media,Coventry,92.9,80.4,62.2,76,3.9,Yes,11/09/2024
+1364,Chloe Martin,Computing,Leeds,92.3,73.9,83,71.3,0.6,Yes,03/09/2024
+1365,Isla Adams,IT,Birmingham,74.8,83.8,62.3,90,6,No,19/09/2024
+1456,Jack Moore,Computing,Coventry,93.7,58.4,53.4,94.5,11.4,Yes,05/09/2024
+1367,Liam Brown,Computing,Leicester,55.8,93.8,53.2,68.8,7.6,Yes,04/09/2024
+1368,Abigail Ali,IT,Sheffield,71.8,64.9,85.1,69.9,4.8,Yes,13/09/2024
+1369,Sophia Griffiths,Business IT,Leicester,78.5,82.9,100,70,10.8,Yes,12/09/2024
+1370,George Roberts,Computing,Liverpool,69.8,79.8,66.2,60.8,4.9,Yes,19/09/2024
+1371,Chloe Smith,Software Development,Manchester,73.2,85.1,77.7,67.8,3.3,No,26/09/2024
+1372,Jacob Martin,Business IT,Leicester,99.6,79.5,68.1,71.2,4.2,Yes,26/09/2024
+1373,Freya Scott,Computing,Leicester,83.4,70.9,73.2,62.6,6.8,Yes,07/09/2024
+1374,Emily Evans,Computing,London,68.8,98.4,58.7,73.6,8.8,Yes,08/09/2024
+1375,Jessica Mitchell,Software Development,Cardiff,76.3,72.1,70.9,56.4,4,No,21/09/2024
+1376,Aisha Murphy,Computing,Nottingham,93,71.8,68.9,86.9,5.2,Yes,25/09/2024
+1377,Amelia Davies,IT,Cardiff,93.2,55.1,70.4,78.2,3.8,Yes,06/09/2024
+1378,Sophia Campbell,Computing,Coventry,100,88.6,64.9,79.5,7.2,Yes,07/09/2024
+1379,Poppy Begum,IT,Reading,68.7,53.5,82,89.5,8.5,Yes,04/09/2024
+1380,Thomas Shah,Software Development,Cardiff,88.3,66.3,70.9,76,7.2,No,06/09/2024
+1381,Amelia King,IT,Reading,80.4,,67.8,65,6.4,Yes,10/09/2024
+1382,Aaliyah Scott,Software Development,Leeds,84.4,73.9,89.2,55.5,6,Yes,02/09/2024
+1383,Eva Allen,Computing,London,77.3,67.1,82.8,53.5,6.4,No,03/09/2024
+1384,Isla Shah,Digital Media,Reading,71.1,51.1,60.1,76.8,7.7,Yes,03/09/2024
+1385,Logan Young,Computing,Cardiff,81.2,66,66,71.3,6.7,Yes,08/09/2024
+1386,William Begum,Cyber Security,Reading,71.4,51.9,59.1,66,2.9,No,10/09/2024
+1387,Callum Shah,Cyber Security,Sheffield,77.3,,80.9,42.9,5.5,Yes,05/09/2024
+1388,Eva Wright,Digital Media,Cardiff,88.1,60,77.6,51.5,4,Yes,08/09/2024
+1389,Jessica Williams,Computing,Leicester,73.5,81.3,44.4,55.1,6.1,No,23/09/2024
+1390,Cameron Moore,Computing,Nottingham,72.7,82.6,62.7,57.5,8.9,Yes,25/09/2024
+1684,Leo Hill,Computing,Nottingham,91.7,65.3,60.4,94,6.6,Yes,22/09/2024
+1392,Lucas Cooper,Digital Media,Liverpool,96,66.9,62,84.2,5.8,Yes,09/09/2024
+1393,William Harris,Computing,Bristol,83.2,48,83.1,62.1,8,Yes,08/09/2024
+1394,James Williams,IT,Birmingham,81,83.4,46.6,66.7,4.2,No,16/09/2024
+1395,James Ali,Digital Media,Coventry,85.9,61.6,76.3,65.8,5.7,Yes,26/09/2024
+1396,Emily Hall,IT,Bristol,60.9,72.8,54.3,68.8,6.7,Yes,21/09/2024
+1397,Jasmine Griffiths,Computing,Reading,83.8,54,76.9,80.6,7.6,Yes,02/09/2024
+1398,Noah Khan,Computing,Coventry,70.4,84.2,61.3,64.4,2.9,Yes,12/09/2024
+1399,Yasmin Begum,Software Development,Nottingham,74.6,67.6,78,49.5,7,Yes,26/09/2024
+1400,Maya Cooper,Digital Media,Leicester,84.4,57.5,92.9,62.7,7.8,Yes,05/09/2024
+1401,Layla Scott,Cyber Security,Sheffield,95.2,84.5,75.1,58.1,2.8,Yes,14/09/2024
+1402,Daisy Moore,IT,Bristol,63.3,75.2,89.8,34.4,8.1,Yes,12/09/2024
+1403,Archie Ward,Software Development,Coventry,81.8,64.5,63.2,62.9,7.4,Yes,14/09/2024
+1404,Sienna Smith,Digital Media,Birmingham,85.9,71.4,78.4,49.5,3.3,No,26/09/2024
+1405,Lucas Shah,Cyber Security,Leeds,85.2,95.6,65.4,93.7,3,No,24/09/2024
+1406,Aaron Shah,Software Development,Cardiff,56.7,84.6,52.8,97.8,7.3,No,02/09/2024
+1407,Isla Ahmed,Computing,Reading,66,60.2,69.1,56.1,3.8,Yes,06/09/2024
+1408,Molly Clarke,IT,Leicester,82,71.4,73.3,65.3,4.2,No,23/09/2024
+1409,Molly Mitchell,Software Development,Reading,69.8,61.6,,85.1,2.8,Yes,07/09/2024
+1410,George Turner,Cyber Security,Cardiff,75.1,85.3,65,73.8,5.4,Yes,13/09/2024
+1411,Chloe Walker,Business IT,Liverpool,74.7,71.1,76,66.2,1.4,No,04/09/2024
+1412,Amelia Hughes,Cyber Security,London,82.1,54.7,74.8,47.6,6.1,Yes,11/09/2024
+1413,Jacob Walker,Business IT,Liverpool,90.5,75.5,73.9,74,9.7,Yes,11/09/2024
+1414,Isaac Green,Computing,Liverpool,77.8,68.4,81.1,69,2,No,25/09/2024
+1415,Harry Wilson,Digital Media,Nottingham,84.7,84.4,100,78.3,8.5,No,17/09/2024
+1416,Olivia Walker,Digital Media,Leeds,76,48,61.2,80.3,5.9,No,03/09/2024
+1417,Yasmin Evans,IT,Reading,72.4,76.5,59.4,67.2,4.3,Yes,12/09/2024
+1418,Yasmin Singh,IT,Cardiff,98.1,55.5,60.8,68.4,7.2,No,10/09/2024
+1419,George Walker,Digital Media,Leeds,62.6,67.6,82.4,69.5,5.6,Yes,15/09/2024
+1420,Finley Walker,IT,Leeds,79.1,87.7,75.5,87.6,6.4,No,08/09/2024
+1421,Brooke Begum,Business IT,Manchester,65.7,85.5,59.1,49.8,5.8,Yes,11/09/2024
+1422,Isaac Williams,Cyber Security,Leicester,83.9,71.4,61.5,72.9,6.1,No,14/09/2024
+1423,Harry Cooper,Cyber Security,Nottingham,86.3,68.9,58.5,82.6,7.6,Yes,21/09/2024
+1424,Blake Ali,Computing,Coventry,87.6,66.8,51.4,86.3,5.6,Yes,02/09/2024
+1425,Joshua Khan,Cyber Security,Sheffield,74,,59.9,71.9,4.7,Yes,09/09/2024
+1426,Samuel Campbell,Cyber Security,Bristol,59.1,64.5,80.8,100,8.1,Yes,13/09/2024
+1427,Poppy White,Business IT,Leicester,83.1,85.8,89.3,65.8,4.6,Yes,24/09/2024
+1428,Emily Carter,Computing,London,89.4,66.7,56.2,65,5.4,Yes,11/09/2024
+1429,Kai Allen,IT,Reading,84.3,71.7,78.3,50.6,1.8,No,06/09/2024
+1430,Chloe Morgan,Digital Media,Nottingham,83.3,85.1,62.8,70.9,8.8,Yes,22/09/2024
+1431,David Robinson,Computing,Birmingham,90.1,81.5,68.8,66.6,5.9,No,25/09/2024
+1432,Jessica Wilson,Computing,London,88.5,60.2,66,75.6,6.2,Yes,24/09/2024
+1433,Alex Carter,Computing,Leicester,64.5,55.4,85.8,71.6,6.8,Yes,22/09/2024
+1434,Ryan Thompson,Computing,Manchester,79.3,59.9,60.8,41.9,8.3,Yes,03/09/2024
+1435,Ben Singh,Business IT,Liverpool,78.4,71,72.5,77,4.2,Yes,26/09/2024
+1436,Eva Griffiths,Computing,Birmingham,78.1,75.7,54.5,85.6,4.8,Yes,23/09/2024
+1437,Eva Lewis,IT,Coventry,85.3,49.4,91,76.2,6.6,No,17/09/2024
+1438,Olivia Robinson,Cyber Security,Cardiff,75.9,76.2,89.1,58.9,9,Yes,05/09/2024
+1439,Finley Baker,Cyber Security,Nottingham,90.1,74.7,75.5,88.8,6.3,Yes,08/09/2024
+1440,Callum Ali,Digital Media,London,88.6,68.8,77.7,55.8,5.8,No,09/09/2024
+1441,David Roberts,Software Development,Leeds,97.6,83.3,32.5,73.1,1.5,Yes,25/09/2024
+1442,Oliver Robinson,Computing,Coventry,67.6,97.2,63.2,81.7,3.8,Yes,17/09/2024
+1443,Maya Moore,Business IT,Reading,84.2,57.1,72.9,87.9,9.2,No,06/09/2024
+1444,Abigail Moore,Digital Media,Manchester,80.4,62.6,49.3,69.9,4.8,Yes,26/09/2024
+1445,Lily Singh,Cyber Security,Leicester,94.5,70.2,58.2,84.2,3.3,No,24/09/2024
+1446,Ava Shah,Software Development,Reading,77.2,84.2,66,81.2,4.1,Yes,14/09/2024
+1447,Dylan Smith,Cyber Security,Birmingham,61.4,61.7,79,79.7,1.9,No,26/09/2024
+1448,Finley Hill,IT,Liverpool,75.1,56.4,71.7,82.7,6.1,Yes,18/09/2024
+1449,Yasmin Hall,Cyber Security,Bristol,87.2,40.2,82.3,39,9.9,Yes,04/09/2024
+1450,Archie Brown,Computing,Birmingham,88.3,65,58.7,82,3.2,Yes,11/09/2024
+1451,Ryan Jackson,Cyber Security,Reading,73.4,61.5,94.4,80.9,5.9,Yes,15/09/2024
+1452,Sarah Robinson,Digital Media,Sheffield,100,77.7,61.1,67.5,6.5,No,07/09/2024
+1453,Isla Williams,Business IT,Manchester,71.7,81.4,85.7,97.5,4.8,No,24/09/2024
+1454,George Campbell,Computing,Bristol,70.2,57.5,66.2,63.5,6.5,Yes,23/09/2024
+1455,Zara Collins,Cyber Security,Birmingham,88.8,63.7,65.3,70,3.3,Yes,25/09/2024
+1906,Ava Ward,Computing,Cardiff,99.6,66.4,88.2,93.8,10.8,Yes,11/09/2024
+1457,Bradley Harris,Computing,Coventry,85.5,58.1,,72.6,3.3,Yes,26/09/2024
+1458,Oscar Thomas,Digital Media,Birmingham,67.7,82.9,70.2,51,5.5,Yes,03/09/2024
+1459,Noah Johnson,IT,London,76.8,81.8,96.2,66,8.6,Yes,15/09/2024
+1460,Noah Walker,Software Development,Manchester,88.3,79,58.1,77.4,6.9,No,18/09/2024
+1461,Aaliyah King,Digital Media,Liverpool,67,78.5,67,47.2,6.3,Yes,19/09/2024
+1462,Ruby Evans,Computing,London,84.3,76.2,80.4,57.4,2.7,Yes,23/09/2024
+1463,Grace Ahmed,Computing,Liverpool,49.8,71.5,62.8,62.3,2.8,Yes,23/09/2024
+1464,Thomas Walker,Cyber Security,Liverpool,80.4,72.4,75.6,57.8,9.8,Yes,07/09/2024
+1465,Jack Hall,Cyber Security,Birmingham,60.3,68.1,74.2,75.7,5.3,No,23/09/2024
+1466,Yasmin Robinson,IT,Manchester,65.2,85.7,73.2,58.7,7.3,Yes,07/09/2024
+1467,Emily Wilson,Software Development,Coventry,68.9,40.2,82.8,51.8,4,Yes,04/09/2024
+1468,Layla Harris,Digital Media,Manchester,60.1,81.2,49,50.6,3,Yes,24/09/2024
+1469,Callum Thompson,Computing,Leeds,76.3,78.3,84.5,68.3,5.4,Yes,17/09/2024
+1470,Thomas Robinson,Computing,Birmingham,73.7,73.2,70.1,69.4,5.6,Yes,05/09/2024
+1471,Ella Taylor,IT,Birmingham,90.1,87.1,69.3,88.2,2.5,No,21/09/2024
+1472,Aaron Murphy,Computing,Leeds,96.3,77.8,70.4,70,5.1,No,08/09/2024
+1473,Ella Martin,Digital Media,Birmingham,83.3,81,65.9,76.7,5.5,No,05/09/2024
+1474,Isla Phillips,Business IT,Birmingham,84.3,67,77.2,66,8.5,Yes,16/09/2024
+1475,Noah Davies,Business IT,Nottingham,88.8,65.4,89.9,71.7,4.2,Yes,23/09/2024
+1476,Blake Ward,Software Development,Manchester,69.2,100,84.9,60.1,8,No,05/09/2024
+1477,Imogen White,Business IT,Leicester,88.7,65.7,57.3,40.3,8.2,Yes,16/09/2024
+1478,Cameron Ahmed,Computing,London,78,77.4,59.7,78.7,5.6,Yes,12/09/2024
+1479,Archie Taylor,Business IT,Nottingham,81,,64.7,56.2,5.1,No,19/09/2024
+1480,Brooke Jones,Cyber Security,Cardiff,89.1,66.7,73.1,79.1,8.5,No,24/09/2024
+1481,Lucas Morgan,Business IT,Coventry,71.7,53,65.8,53.2,0.6,Yes,14/09/2024
+1482,Isla Hill,Computing,Coventry,82.3,93.8,78.4,56.6,8.5,Yes,22/09/2024
+1483,Leo King,IT,Leicester,79.3,,70.1,75.5,3.5,Yes,07/09/2024
+1484,Noah Roberts,Cyber Security,Cardiff,58.5,67.9,90.4,35.3,1.6,Yes,14/09/2024
+1485,Eva Hughes,Cyber Security,Leicester,70.9,85.2,63.6,81.3,0.6,No,19/09/2024
+1486,Mia Wright,Computing,Reading,79.4,90,67,53.5,3.8,Yes,20/09/2024
+1487,Archie Smith,Business IT,Sheffield,82.9,56.9,64.2,67.7,2.6,Yes,26/09/2024
+1488,Tyler Cooper,Cyber Security,Leeds,87.9,57.1,53.1,80.2,4.6,Yes,21/09/2024
+1489,Amir Murphy,Computing,Nottingham,82.8,75.9,68,59.1,3.4,No,04/09/2024
+1490,Isla Smith,Computing,Leicester,82.8,59.3,64.7,76.9,6.3,Yes,11/09/2024
+1491,Aisha Davies,Computing,Manchester,98.1,74.2,69.4,87.4,4.9,No,02/09/2024
+1878,Amelia Hill,Computing,,94.6,72.1,77.6,93.6,10.9,Yes,08/09/2024
+1493,Brooke Murphy,Digital Media,Coventry,100,60.6,71.7,99.1,5.4,No,12/09/2024
+1494,George Lewis,Computing,Birmingham,84.6,85.6,100,60,6,Yes,17/09/2024
+1495,Ryan Thomas,IT,Liverpool,97.8,49,59.6,86.8,5.5,No,21/09/2024
+1496,Amelia Thompson,Software Development,Leicester,77,71.1,87.2,57.2,10.9,Yes,23/09/2024
+1497,Lucas Adams,Software Development,Cardiff,100,57.2,63.1,100,5.4,No,07/09/2024
+1498,Mohammed Wilson,Computing,Birmingham,69.8,83.7,46.5,55.8,5.7,No,24/09/2024
+1499,Daisy Thompson,IT,Birmingham,70.1,84.2,79.6,48.9,4.8,Yes,22/09/2024
+1500,Aaliyah Khan,Computing,Liverpool,79.7,67.9,76.6,79.2,7.7,No,22/09/2024
+1501,Jasmine Martin,Cyber Security,Reading,83.5,76,63.1,63.1,5.1,Yes,14/09/2024
+1502,Finley Ahmed,Software Development,Sheffield,83.5,59,58.6,100,1.7,Yes,24/09/2024
+1503,Harry Clarke,Computing,Bristol,85.8,84.8,86.6,71.5,6.1,No,17/09/2024
+1110,Aaliyah Shah,Computing,Coventry,90.1,53.4,80.9,93.1,10.9,Yes,18/09/2024
+1505,Adam Hall,Software Development,Leeds,61.3,50.9,59.6,85.5,5,Yes,12/09/2024
+1506,Lucas Turner,Cyber Security,Coventry,79.4,69.8,77.4,81.7,6.1,Yes,13/09/2024
+1507,Alex Adams,IT,Coventry,56.8,94.4,69,63.4,5.8,Yes,07/09/2024
+1508,Callum Begum,IT,Sheffield,77,60.8,75.8,55,11.4,Yes,10/09/2024
+1509,Harry Murphy,IT,Manchester,64.8,100,72.6,62,7.4,No,03/09/2024
+1510,Ryan Green,Computing,Nottingham,66.2,30.9,87.2,73.6,5,Yes,24/09/2024
+1511,Chloe Campbell,IT,Leeds,83.7,64,,84.5,4.6,Yes,20/09/2024
+1512,Ella King,Software Development,Leeds,100,72.2,54.1,72.4,4.9,Yes,23/09/2024
+1513,Blake Hill,Computing,Birmingham,62.3,75,55.3,72.5,4.9,Yes,03/09/2024
+1514,Callum Edwards,Software Development,Leicester,95,65.2,93,69.3,2.3,Yes,04/09/2024
+1515,Mia Begum,Computing,Leeds,88.9,89.3,67.6,92.8,4.6,Yes,15/09/2024
+1516,Callum Jackson,Digital Media,Bristol,74.4,55,70.9,82,3.5,Yes,15/09/2024
+1517,Ella Lewis,Digital Media,Birmingham,88.7,73,63.7,72.3,4.8,Yes,22/09/2024
+1518,Ava Wright,Cyber Security,Manchester,73.1,89.6,70.2,66.7,7,Yes,20/09/2024
+1519,Blake Morris,Cyber Security,Birmingham,61.9,74.6,76.3,57.9,1.8,Yes,25/09/2024
+1520,Maya Ali,Computing,Reading,69.4,64.9,87.3,50,6.3,Yes,10/09/2024
+1521,Fatima Cooper,Computing,Coventry,78,89.4,69.9,71.1,5,Yes,16/09/2024
+1522,Sarah Harris,Digital Media,Coventry,80.1,57.5,85.8,64.9,3.1,Yes,06/09/2024
+1523,Emily Ahmed,Computing,Leicester,84,77.6,,46.8,4.3,No,06/09/2024
+1524,Daniel Ward,Digital Media,Nottingham,77.9,44.6,,61.9,4.5,Yes,14/09/2024
+1525,Oliver King,Business IT,Reading,63.3,60,75.3,70,3,No,23/09/2024
+1526,Abigail Lewis,Cyber Security,Sheffield,86.8,95.3,81.9,56.2,6.7,Yes,22/09/2024
+1527,Isla Walker,Computing,Bristol,66.9,75.9,56.5,58.9,9.4,Yes,16/09/2024
+1528,Molly Thomas,Digital Media,Bristol,68.8,76.6,51.4,80.9,2.5,Yes,25/09/2024
+1529,Daisy Scott,Cyber Security,Cardiff,91,64.7,73.5,87.8,7.6,Yes,23/09/2024
+1530,Aisha Wright,Computing,Cardiff,79,77,77.6,55,4.2,No,13/09/2024
+1531,Daniel Thompson,Software Development,Coventry,70.7,52.2,83.5,63.3,0.9,Yes,05/09/2024
+1532,Blake Young,Cyber Security,Sheffield,84.6,84.5,82.4,91.2,1.5,Yes,11/09/2024
+1533,Bethany Clarke,Digital Media,Bristol,81.4,64,81.4,100,5.3,No,17/09/2024
+1534,Lily Turner,Business IT,Bristol,77.7,63.3,65.5,70.3,2.4,No,06/09/2024
+1535,Poppy Murphy,Business IT,Bristol,90.2,65.1,74.4,47.9,4.4,Yes,14/09/2024
+1536,Aisha Taylor,Software Development,Manchester,78.5,73.7,69.6,55,2.5,Yes,18/09/2024
+1537,Jasmine Jackson,Computing,Liverpool,91.2,59.5,79.4,81.4,2.2,Yes,21/09/2024
+1538,Mia Williams,Computing,Liverpool,60.9,83.9,79.5,52.8,7.7,No,18/09/2024
+1539,James Murphy,IT,Leicester,80.4,72.6,76.6,52,5.5,No,18/09/2024
+1540,Sophia Jackson,Computing,Leicester,97.9,83.2,67.3,68.7,5.2,Yes,09/09/2024
+1541,Freya Jackson,IT,Leicester,82.8,49.9,63.1,50.4,3.5,Yes,20/09/2024
+1542,Chloe Turner,Cyber Security,Cardiff,78,74.1,74.1,82.2,3.5,Yes,13/09/2024
+1543,Maya Green,Digital Media,Leicester,68.5,76.5,84.6,63.2,9.7,Yes,06/09/2024
+1544,Thomas Murphy,Computing,Leeds,75.6,66.8,72.9,79.9,7.9,No,05/09/2024
+1545,Jack Ali,Cyber Security,Birmingham,55.7,98.8,67.5,85.3,5.6,Yes,03/09/2024
+1546,Ella Young,Business IT,London,73.1,78.7,79.7,80,3.5,Yes,20/09/2024
+1547,Callum White,Computing,Leicester,67.3,73.5,49.1,78.8,3.3,Yes,15/09/2024
+1548,Alex Taylor,Software Development,Reading,96.6,69,77.1,71.6,5.8,Yes,26/09/2024
+1549,Ava Davies,Software Development,Sheffield,75.8,68,,66.1,0.5,Yes,19/09/2024
+1550,Grace Turner,Business IT,Coventry,82.5,47.9,79.5,58.9,3.8,Yes,02/09/2024
+1551,William Hill,IT,Birmingham,82.8,73.9,75.3,76.8,5.3,Yes,15/09/2024
+1552,Ella Ahmed,Digital Media,Liverpool,83.8,61.2,78.7,59.4,6.4,Yes,05/09/2024
+1553,George Morgan,Cyber Security,Sheffield,74.9,74.2,,75.8,3,Yes,09/09/2024
+1554,Bethany Foster,Business IT,Leicester,86,72.4,62,65.1,5.9,Yes,08/09/2024
+1555,David Wilson,IT,Cardiff,92.6,,93.2,76.7,8.5,Yes,07/09/2024
+1556,Hannah Thomas,IT,Bristol,75.3,74.9,65.1,76.1,3.7,Yes,19/09/2024
+1557,Isaac Lewis,Computing,Sheffield,88.3,67,67.5,58.3,5,Yes,09/09/2024
+1558,Joshua Ahmed,Software Development,Manchester,97.3,69.5,71.4,40.2,6.1,Yes,15/09/2024
+1559,Maya Patel,Computing,Leicester,71,56.8,89.2,53.9,4.1,No,14/09/2024
+1560,Aaron Campbell,Cyber Security,Leeds,80.9,61.4,74.9,81.3,5.5,No,13/09/2024
+1561,Finley Evans,Software Development,Bristol,91.5,73.5,67.3,51.7,12.2,Yes,05/09/2024
+1562,Emily Taylor,Business IT,Leicester,80.4,63.1,57.9,76.7,5.8,Yes,10/09/2024
+1563,Isaac Davies,Business IT,London,95.9,69,63,67.8,2.8,No,22/09/2024
+1564,Jessica Lewis,Business IT,Cardiff,74.5,67,89.9,57,5.8,No,25/09/2024
+1565,Oscar Hill,Computing,Leeds,67.5,93.1,84.9,30.2,5.9,No,09/09/2024
+1566,Bethany Ahmed,Cyber Security,London,95.6,54.8,62.8,64.6,6.9,Yes,09/09/2024
+1567,Tyler Wilson,Computing,Birmingham,81.5,52.2,73.5,50.5,4.4,Yes,03/09/2024
+1568,Callum Allen,Software Development,Nottingham,76.8,86.8,77.6,64.1,5.8,Yes,03/09/2024
+1569,Mohammed Evans,Software Development,Leicester,70.4,60,59.6,73.3,4.5,Yes,23/09/2024
+1570,Emily Brown,Computing,Coventry,75.5,66,56.3,86.4,0.9,Yes,18/09/2024
+1571,Olivia Cooper,IT,London,87.8,74.2,44,83.9,5.4,No,26/09/2024
+1572,Jack Johnson,Software Development,Sheffield,69.5,53.2,62.7,85.6,6.3,No,03/09/2024
+1573,Ethan Wilson,Computing,Leeds,70.6,52.6,88.1,67.9,3.8,No,21/09/2024
+1574,Alex Morgan,Computing,London,91.6,57.1,57.9,60.5,5.6,Yes,26/09/2024
+1941,Adam Shah,Computing,Sheffield,93.9,55.1,92.4,92.4,6.4,Yes,20/09/2024
+1576,Isla Cooper,Computing,Liverpool,86,67.7,,61.7,4.8,Yes,10/09/2024
+1577,Logan Smith,Business IT,Birmingham,75,77.6,60.9,73.7,4.3,Yes,21/09/2024
+1578,Chloe Carter,Business IT,Leeds,83.8,50.4,68.2,63.9,7.6,Yes,03/09/2024
+1579,Jack Wilson,Computing,Leeds,97.5,77.6,88.3,50.4,10.2,Yes,04/09/2024
+1580,David Morris,IT,Leicester,74.5,70.1,60.4,61.3,5.1,Yes,18/09/2024
+1581,Imogen Robinson,IT,Coventry,74.6,62.8,82.4,60.6,5.5,Yes,14/09/2024
+1582,Ava Carter,Business IT,Liverpool,86.7,58.6,75.8,56.5,3.9,Yes,15/09/2024
+1583,Sienna Hill,IT,London,82.4,78.6,65.1,59.5,9.3,Yes,22/09/2024
+1584,Brooke Baker,IT,Sheffield,89.5,72.6,79.6,64.3,7.1,No,23/09/2024
+1585,Zara Green,Computing,Liverpool,77,81.8,100,69.3,7.1,Yes,22/09/2024
+1586,Maya Evans,Computing,Reading,62.3,72.4,80.5,54.8,3.7,Yes,16/09/2024
+1587,Noah Williams,Software Development,Cardiff,82,83.8,61.1,65.1,4.2,No,02/09/2024
+1588,Finley King,Cyber Security,Cardiff,76.3,71.6,53.7,64.3,8.3,Yes,03/09/2024
+1589,Maya Jones,Computing,Cardiff,89,75,61.4,72,8.6,Yes,07/09/2024
+1590,Sarah Ahmed,Computing,Birmingham,75.3,80.9,65.7,73.2,7.2,Yes,16/09/2024
+1591,Mohammed Khan,Computing,Birmingham,86.9,79.8,71.5,56.1,6.6,No,11/09/2024
+1592,James Robinson,Computing,Reading,74.7,65.8,63.2,77.8,5.4,Yes,14/09/2024
+1593,Ruby Roberts,Computing,Birmingham,73.6,96.1,54.1,75.9,4.8,Yes,07/09/2024
+1594,Oliver Mitchell,IT,Leicester,70,76.8,86.2,43.5,8.9,Yes,07/09/2024
+1595,Anaya Thompson,Business IT,Leeds,88.5,62.7,72.5,62.9,2.6,Yes,26/09/2024
+1596,Sophia Ali,Cyber Security,Birmingham,92.6,57.5,,57.5,5.8,Yes,08/09/2024
+1597,Cameron Hill,Digital Media,Nottingham,74.9,70.5,,66.9,6.6,No,07/09/2024
+1598,Jack Campbell,Cyber Security,Cardiff,77.1,79.5,87.6,81.2,5.4,Yes,07/09/2024
+1599,Fatima Martin,Digital Media,Leicester,84.9,52.8,66.6,40.8,3.7,Yes,02/09/2024
+1600,George Davies,Computing,Cardiff,85,72.2,72.4,79.1,2,Yes,05/09/2024
+1601,David Ali,IT,Birmingham,82.9,59.5,60.3,56,7.5,Yes,09/09/2024
+1602,Mia Smith,IT,Cardiff,74.6,72.1,80.2,63.8,3.7,Yes,03/09/2024
+1603,Sienna Brown,Digital Media,Coventry,92.2,98.9,44.6,46.8,4.1,No,24/09/2024
+1604,Samuel Baker,IT,Coventry,63.4,82.1,65.1,47,5,Yes,24/09/2024
+1605,Brooke Harris,Computing,Cardiff,79.7,51.9,82.8,75,4.9,Yes,03/09/2024
+1606,Olivia Ward,Software Development,Manchester,85,66.7,89,71.1,2.4,No,22/09/2024
+1607,Joshua Hughes,IT,,100,79.7,93.5,68.2,4.7,No,18/09/2024
+1608,Sarah Baker,Software Development,London,71.6,65.2,67,71.7,6.3,Yes,08/09/2024
+1609,James Collins,Business IT,Leeds,65.7,78.2,66.8,87.3,6.9,No,17/09/2024
+1610,David Moore,Cyber Security,Sheffield,77.5,59.3,63.9,89.4,10.2,Yes,26/09/2024
+1611,Yasmin Clarke,Cyber Security,,78.4,84.5,60.9,73.9,4.6,Yes,17/09/2024
+1311,Zara Young,Computing,Leicester,96.4,57.3,69.5,92.2,8.2,Yes,26/09/2024
+1613,Aisha Campbell,IT,Coventry,88.8,88.8,91.9,63.6,5.3,Yes,22/09/2024
+1614,Noah Ward,IT,Nottingham,68.8,93.3,76.7,55.7,2.7,Yes,22/09/2024
+1615,Chloe Green,IT,Coventry,99.2,62.6,92.5,71.9,2,Yes,20/09/2024
+1616,Noah Green,Digital Media,Sheffield,59.7,88.7,68.5,61.1,6.7,Yes,25/09/2024
+1617,Layla Young,Computing,Reading,83.6,90.9,71.6,68.5,6.7,Yes,26/09/2024
+1618,Oliver Collins,Computing,Manchester,90.2,67.5,64.4,84.1,10.6,Yes,08/09/2024
+1619,Emily Green,Software Development,Cardiff,56.4,80.5,85.2,82.6,6.2,Yes,04/09/2024
+1620,Bethany Adams,Computing,London,81.2,58.4,53.8,79.3,5.7,No,14/09/2024
+1621,Sarah Moore,Business IT,Coventry,69.4,75.4,100,35.5,7.6,Yes,14/09/2024
+1622,Poppy Thompson,IT,Manchester,55.1,76.6,73,36.2,4.2,No,09/09/2024
+1623,Ryan Morris,IT,Leeds,94.7,70.4,81.9,65.6,2,No,25/09/2024
+1624,Mia Ward,Digital Media,Birmingham,62.3,52.2,95.1,84.9,4.3,Yes,24/09/2024
+1625,Emily Turner,Computing,Sheffield,92.7,54,71.4,66.5,4.3,No,19/09/2024
+1626,Bradley Moore,Digital Media,Leeds,79.1,70.3,79.3,90.4,4,Yes,24/09/2024
+1627,Lucas Williams,IT,Reading,78.4,84.8,76.9,65.7,7.3,No,04/09/2024
+1628,Anaya Smith,IT,Reading,89.2,69.1,52.7,56.1,1.8,No,15/09/2024
+1629,Ben Campbell,Computing,Reading,73.1,,86.6,63.5,6.7,Yes,25/09/2024
+1630,Lucas Lewis,IT,Bristol,85.8,78.9,45.3,84.5,7.8,Yes,05/09/2024
+1631,Chloe Young,Software Development,Leeds,66.9,70,66.6,65.3,3.1,Yes,21/09/2024
+1961,Liam Mitchell,Computing,Cardiff,92.7,77.9,61.4,92,6.1,Yes,26/09/2024
+1633,Finley Thompson,Business IT,Manchester,90,53.6,65.3,94.5,6.5,Yes,14/09/2024
+1634,Maya Khan,Computing,Reading,75.6,65.9,90.1,79.3,9.7,Yes,06/09/2024
+1575,Eva Khan,Computing,London,91.2,73.9,77.8,90.7,6.8,Yes,26/09/2024
+1636,Chloe Jones,Software Development,Cardiff,85.1,66.6,65.4,82.3,6.1,Yes,03/09/2024
+1637,Oliver Clarke,Digital Media,Cardiff,79.2,76.5,63.9,77.2,4.1,No,26/09/2024
+1638,Ruby Young,Digital Media,Liverpool,75.2,60.5,62.4,77,5.4,Yes,22/09/2024
+1639,Samuel Griffiths,Digital Media,Birmingham,80.9,62.1,54.8,72,2.4,Yes,04/09/2024
+1640,Mia Young,Digital Media,Cardiff,84.8,54.9,66.9,76.2,2.7,Yes,20/09/2024
+1641,Eva Taylor,Software Development,Manchester,90,54.7,85.1,70.5,5,Yes,22/09/2024
+1642,Aisha Begum,Software Development,Sheffield,81.9,59.8,100,88.2,11.1,Yes,09/09/2024
+1643,Jack Taylor,Cyber Security,Manchester,64,60.7,37.3,64.2,3.5,Yes,05/09/2024
+1644,Fatima Carter,Digital Media,Leeds,90,61.2,66.7,68.1,2.8,Yes,10/09/2024
+1645,Noah Thompson,Computing,Leeds,95.1,79.1,90.5,69.4,6.1,Yes,18/09/2024
+1646,Oliver Jones,Computing,Coventry,88.9,70.2,81.5,49.2,4.6,Yes,12/09/2024
+1647,Imogen Clarke,Software Development,Leeds,78.3,75.8,80.4,68.7,9.3,Yes,18/09/2024
+1648,Sarah Brown,Cyber Security,Reading,73.3,60.5,67.7,69.2,6.4,Yes,12/09/2024
+1649,Yasmin Phillips,Digital Media,Cardiff,73.3,71,86.4,71,6,Yes,25/09/2024
+1650,Grace Thomas,Digital Media,Reading,83.7,56.5,75.4,60.4,7.4,Yes,15/09/2024
+1651,Freya Harris,Digital Media,Birmingham,89.6,65.7,70,75.6,8.7,No,07/09/2024
+1652,Sienna Wright,Software Development,Cardiff,87.5,56.6,47,80.8,7.4,Yes,23/09/2024
+1653,Emily Ward,Computing,Cardiff,73.6,49.3,72.7,92.9,9.6,No,18/09/2024
+1654,David Thomas,Software Development,Sheffield,72.8,76.6,67.8,65,6.3,Yes,03/09/2024
+1655,Bradley Hughes,Software Development,Leeds,89.5,47.9,78.2,61,3.4,Yes,22/09/2024
+1656,Aisha Mitchell,Software Development,Nottingham,79.9,71.3,72.5,58.6,5.8,Yes,13/09/2024
+1657,Thomas Clarke,IT,Nottingham,97.8,71,72,85.8,3.7,No,19/09/2024
+1658,Olivia Collins,Computing,Reading,86.4,58.8,76.6,76.4,4.1,Yes,03/09/2024
+1659,Aisha Collins,Digital Media,Nottingham,100,60.7,82.2,81,1.7,Yes,26/09/2024
+1660,Lucas Carter,Computing,Birmingham,79.5,71.8,66,68.7,5.6,Yes,03/09/2024
+1661,Aaron Lewis,Cyber Security,Liverpool,60.5,71.9,72.1,78.1,3.5,No,10/09/2024
+1662,Blake Thompson,Business IT,Coventry,78.4,87.1,100,53.3,3.5,Yes,06/09/2024
+1663,Chloe Lewis,Computing,Leeds,82,72.3,63.4,76.6,4.1,Yes,17/09/2024
+1664,Liam Griffiths,Software Development,Reading,73.1,60.1,77.2,73.9,5.5,Yes,25/09/2024
+1665,Ella Green,Software Development,Bristol,76.3,75.5,63.1,51.5,5.5,Yes,13/09/2024
+1666,George Smith,IT,Coventry,73.2,49.7,88.7,85.7,8.2,Yes,20/09/2024
+1667,Oscar Brown,Computing,Sheffield,72.2,62.5,52,73.8,3.9,Yes,15/09/2024
+1668,Layla Johnson,Cyber Security,Reading,77.7,80.3,80.6,53,5.6,No,02/09/2024
+1669,Amir Wilson,Software Development,Leeds,78.4,56.9,62.3,44.1,6.7,No,14/09/2024
+1670,Eva Cooper,Computing,Coventry,77.8,74,90.2,88,2.4,Yes,24/09/2024
+1671,Jack Turner,IT,Birmingham,80.6,73.5,72.3,73.9,8.3,No,10/09/2024
+1672,Eva Patel,Computing,Leicester,97.3,59.8,85.4,66,6,Yes,19/09/2024
+1673,Jack Hill,Software Development,Leicester,87.3,47.8,78,100,8.1,Yes,26/09/2024
+1674,Hannah Singh,Digital Media,Sheffield,100,73.8,84.5,65.7,6.7,Yes,26/09/2024
+1675,Oliver Johnson,Computing,Nottingham,84.8,74.6,81.5,95.6,6.3,No,22/09/2024
+1676,Maya Thomas,Digital Media,Birmingham,90.8,78.5,81.9,50.6,6.3,Yes,25/09/2024
+1677,Bethany Jones,IT,,87.6,50.4,69.8,66.7,5.3,Yes,22/09/2024
+1678,Blake Patel,Business IT,Bristol,83.6,73.3,68,85.2,8.4,No,07/09/2024
+1679,Zara Thompson,IT,Sheffield,93.7,,80,77.1,0.7,Yes,09/09/2024
+1680,Isla Evans,Software Development,Leicester,77.5,49.8,88.5,73,4.2,Yes,05/09/2024
+1681,Archie Shah,IT,Bristol,100,56.5,85,58.4,6.6,Yes,23/09/2024
+1682,Isla Jackson,Software Development,Liverpool,91.2,86.6,63.1,93.3,3.5,Yes,04/09/2024
+1683,Chloe Hill,Computing,Nottingham,75.5,47.6,67.6,70.7,0.5,Yes,04/09/2024
+1366,Hannah Collins,Computing,Leeds,92.4,74.4,55.9,89.3,6.4,Yes,14/09/2024
+1685,Yasmin Patel,Cyber Security,Sheffield,83.7,58.5,61,62.9,2,No,24/09/2024
+1686,Abigail Johnson,Cyber Security,Manchester,71,74,70,54.1,9.1,No,06/09/2024
+1687,Eva Young,Computing,Reading,97.2,95.3,68.7,56.9,11.4,Yes,24/09/2024
+1688,Chloe Johnson,Computing,Leeds,83.7,84.9,79.2,73.1,4,Yes,25/09/2024
+1689,Ryan King,Business IT,Nottingham,82.3,50.3,70.4,77.9,5.8,No,18/09/2024
+1690,Poppy Phillips,Digital Media,Liverpool,77.1,83.4,65.1,66.3,2.9,Yes,04/09/2024
+1691,Fatima Khan,Digital Media,Leeds,63.1,85.1,88.2,67.1,8.6,Yes,22/09/2024
+1692,Lily Smith,Cyber Security,Liverpool,86.9,74.1,75,48.4,2.5,Yes,11/09/2024
+1693,Aaron White,Software Development,Leeds,64.1,64.1,81.3,72.2,8.4,Yes,17/09/2024
+1694,Aaron Jackson,Business IT,Cardiff,76.9,58.7,72,59.8,6.7,Yes,23/09/2024
+1695,Bethany Morris,Business IT,Manchester,98.4,73.4,48.1,74.1,6.7,Yes,04/09/2024
+1696,Fatima Wright,Digital Media,Manchester,80.5,70.9,64.9,86.4,4.6,No,22/09/2024
+1697,Callum Hughes,IT,Coventry,86.2,59.1,88,54.7,4.1,Yes,04/09/2024
+1698,Bethany Wright,Computing,Liverpool,83.9,37.2,62.8,71.2,4.3,Yes,12/09/2024
+1699,Liam Jackson,Computing,Manchester,76,56,100,66.6,5.5,No,05/09/2024
+1700,Isla Khan,IT,Coventry,67.2,75.9,68.9,51.9,8.7,No,13/09/2024
+1701,Alex Shah,Software Development,London,78.5,60.3,72.7,68.4,6.5,Yes,14/09/2024
+1702,Ben Jackson,Cyber Security,Leicester,71.7,46.6,67.1,76.8,6.3,Yes,14/09/2024
+1703,Jasmine Hughes,Software Development,Nottingham,83.2,90.8,81.9,80.1,0.5,Yes,08/09/2024
+1704,Logan Allen,Software Development,Bristol,71.5,78.9,39.8,72.2,6.9,Yes,26/09/2024
+1705,Ava Clarke,Computing,Cardiff,98.5,83,60.1,74.4,6.4,Yes,03/09/2024
+1706,Jacob Collins,Computing,Cardiff,100,54,73.7,77.7,0.5,Yes,24/09/2024
+1707,Jasmine Adams,Computing,Nottingham,90.8,63.8,63.4,92.7,4.4,No,16/09/2024
+1708,Bethany Ali,Computing,,71.4,55.7,79.3,76.9,7.3,Yes,08/09/2024
+1709,Liam Ahmed,IT,Liverpool,56.9,69.7,66.6,50.8,2.9,Yes,19/09/2024
+1710,Dylan Mitchell,Cyber Security,Manchester,82.1,62.7,69.7,59.5,6.1,Yes,23/09/2024
+1711,Bethany Begum,Business IT,Birmingham,80.7,71.3,77.1,67.3,5.3,Yes,22/09/2024
+1712,Jack King,Computing,Nottingham,63.6,63.9,70.1,91.3,0.7,Yes,16/09/2024
+1713,Maya Adams,Software Development,Leeds,70.3,69.5,66.4,59.9,9.6,Yes,02/09/2024
+1714,Daniel Wilson,IT,Sheffield,65.2,77.5,57.3,52,10.5,No,09/09/2024
+1715,Maya Allen,Business IT,Coventry,55.5,83.3,57,84.4,3.6,Yes,09/09/2024
+1716,Harry Phillips,Computing,Bristol,84.5,71.6,77.1,51.8,6.6,Yes,02/09/2024
+1717,Logan Ahmed,Business IT,Manchester,94.5,68.1,73.3,61.1,4.3,Yes,09/09/2024
+1718,Harry Taylor,Computing,Birmingham,72.6,86.8,65.3,58.1,2.9,Yes,16/09/2024
+1719,Ben Baker,Cyber Security,Bristol,85.4,65.4,89.2,84.7,2.9,Yes,08/09/2024
+1720,Oscar Wright,Computing,Liverpool,85.6,78.1,72.5,52.6,4,Yes,12/09/2024
+1721,Daisy Murphy,Business IT,Birmingham,79.9,73,86.2,72.4,8.1,Yes,08/09/2024
+1722,Callum Griffiths,IT,Leeds,97.1,81.5,68.8,58.9,4.7,No,17/09/2024
+1723,Hannah Cooper,Computing,Reading,76.9,82.7,54.3,58,3.7,No,17/09/2024
+1724,Imogen Young,IT,Birmingham,97.1,59.2,64.1,57.6,4.3,Yes,04/09/2024
+1725,Hannah Robinson,IT,Coventry,86.3,53.4,82.9,67.2,6.8,Yes,07/09/2024
+1726,Lily Clarke,Business IT,Birmingham,80.3,89.8,73.1,68,3.7,Yes,12/09/2024
+1727,Fatima Murphy,Computing,Sheffield,76.4,87.5,89.7,51.4,9.8,Yes,26/09/2024
+1728,Amelia Wright,Cyber Security,London,89.5,83.6,,76.1,6.3,Yes,14/09/2024
+1729,Aaliyah Mitchell,IT,Cardiff,92.2,73.7,61.3,67.8,8,No,15/09/2024
+1730,Amelia Khan,IT,,80.3,51.4,72.7,92.8,2.8,No,05/09/2024
+1731,Oliver Evans,Computing,Leeds,75.7,46.5,78,54.1,9,Yes,03/09/2024
+1953,Anaya Foster,Computing,,97.3,72.7,69.2,89,9,Yes,08/09/2024
+1733,Mohammed Singh,Cyber Security,Birmingham,70.9,68.7,58.2,72.2,4.5,Yes,04/09/2024
+1734,Grace Taylor,Digital Media,Leeds,97.6,68.3,67.5,60.3,5.4,Yes,16/09/2024
+1735,William Morris,Business IT,Liverpool,74.9,51.7,75.3,64.6,9,Yes,16/09/2024
+1736,Emily Baker,IT,Manchester,96.9,57.5,44.8,64.3,4.8,Yes,05/09/2024
+1737,Ella Griffiths,Computing,Leicester,68.9,67.7,83.2,82,4.3,Yes,15/09/2024
+1738,Logan Walker,Software Development,Leeds,85,66.4,83.7,55.7,3.7,Yes,15/09/2024
+1739,Bradley Evans,Computing,London,71.8,65.6,62.6,67.7,8.1,Yes,14/09/2024
+1740,Imogen Morgan,Computing,Leeds,67.5,63.8,80.1,51.3,3.1,Yes,18/09/2024
+1741,George Collins,IT,Birmingham,83.9,80.1,42.5,80,4,Yes,10/09/2024
+1742,Aaron Scott,IT,Nottingham,69,57,65.1,70.1,6.5,No,20/09/2024
+1743,Sophia Collins,Business IT,Birmingham,95.1,83.8,,84,3.5,Yes,10/09/2024
+1744,Joshua Murphy,Business IT,Coventry,90.1,59.7,72.9,50.1,4.9,Yes,15/09/2024
+1745,Sienna Ahmed,IT,Reading,75.1,57,73.4,75.8,7.4,Yes,10/09/2024
+1746,Oscar Murphy,Computing,Leicester,73.9,63.2,80.8,41.4,2.2,Yes,08/09/2024
+1747,Brooke Lewis,Business IT,Coventry,98.1,65.4,64.4,100,1.6,Yes,06/09/2024
+1748,Daisy Harris,Cyber Security,Birmingham,79.1,70.7,,81,5.8,Yes,03/09/2024
+1749,Aaliyah Allen,IT,Bristol,93,54.3,41.7,69.6,0.5,Yes,06/09/2024
+1750,Ava Hall,Computing,Nottingham,68.8,79,68.3,64,3.2,Yes,05/09/2024
+1751,Dylan Roberts,Cyber Security,Bristol,81,63.3,73,59.4,3.9,Yes,11/09/2024
+1752,Logan Wilson,Software Development,Cardiff,82.7,83.1,80.3,64.3,2.6,Yes,13/09/2024
+1753,Mohammed Mitchell,Computing,Sheffield,97.5,73.7,77.6,74.1,8.8,Yes,13/09/2024
+1754,Jack Allen,Business IT,Cardiff,68.3,83.6,84.7,46.9,6.2,Yes,03/09/2024
+1755,Blake Hughes,Digital Media,Liverpool,63.6,62,76,64.6,2.8,Yes,24/09/2024
+1756,Daniel Harris,Digital Media,Reading,72.3,71.5,71.9,48.7,5.6,Yes,02/09/2024
+1757,Grace Edwards,Computing,London,84.9,57.8,77.7,72.4,0.5,No,19/09/2024
+1758,Chloe Singh,Computing,Manchester,96.7,77.9,56,81,8.8,Yes,17/09/2024
+1759,Sienna Johnson,Digital Media,Cardiff,64.1,,50.6,75.8,6.5,Yes,14/09/2024
+1760,Olivia Ali,Software Development,Bristol,86.2,84.2,68.9,68.1,3.4,No,13/09/2024
+1761,William Jones,Cyber Security,Manchester,73.3,59.9,69.9,57.5,4.4,Yes,26/09/2024
+1762,Samuel Jones,Software Development,Coventry,60.1,60.8,58.8,91.7,3.5,Yes,06/09/2024
+1763,Mia Baker,Computing,Reading,81.7,74.9,94,90.2,1.3,No,25/09/2024
+1764,Lucas White,Software Development,Birmingham,81.7,79.1,75.5,92.7,6.2,Yes,13/09/2024
+1765,Jessica Brown,Digital Media,Cardiff,89.5,83.8,64.6,66.8,1.7,Yes,25/09/2024
+1766,Adam Singh,Software Development,Birmingham,79.9,76.8,92.9,80.4,3.9,Yes,19/09/2024
+1767,William Morgan,Computing,Leeds,67.7,63.7,62,85.6,4.1,Yes,15/09/2024
+1768,Callum Wilson,Cyber Security,Birmingham,76.8,76.9,77.9,59.9,4,Yes,11/09/2024
+1769,Anaya Collins,Software Development,Birmingham,71,67.9,55.6,67.9,4,Yes,05/09/2024
+1770,Adam Ali,IT,Liverpool,93.1,78.3,95.9,78.8,5.9,No,12/09/2024
+1771,Archie Wright,Software Development,Coventry,73.6,48.8,100,78.7,8.4,Yes,04/09/2024
+1772,Alex Brown,Computing,Sheffield,74.4,,83,45.8,5.9,No,09/09/2024
+1773,Ethan Patel,Digital Media,Cardiff,71.5,50.6,68.3,68.5,5.7,Yes,15/09/2024
+1774,Lily Jackson,Computing,Cardiff,62.1,78.3,67.6,71.7,5.5,Yes,26/09/2024
+1775,Aaron Walker,IT,London,84.1,73.1,73.5,73.8,3.2,Yes,11/09/2024
+1776,Archie Baker,IT,Sheffield,92,75.6,90,81.6,0.6,No,16/09/2024
+1777,Jack Smith,IT,Liverpool,73.2,84.7,80.8,77.9,0.5,Yes,04/09/2024
+1778,Eva Campbell,IT,Manchester,93.3,79.3,74,47.9,6.8,No,02/09/2024
+1779,Ava Allen,IT,Coventry,77.4,71.7,62.4,80.2,5.7,Yes,19/09/2024
+1780,Layla Ahmed,Software Development,Bristol,89.6,95.1,59.8,76.9,2.3,No,12/09/2024
+1781,Blake Phillips,IT,Reading,87.3,65.6,86.8,69,1.9,No,10/09/2024
+1782,George Carter,Software Development,Liverpool,87.1,79.8,44,79.1,6.2,Yes,12/09/2024
+1783,Imogen Taylor,IT,Leicester,84.6,,,82.8,4.5,Yes,16/09/2024
+1784,Leo Moore,Digital Media,Sheffield,86.8,70.9,76.1,80.4,4.6,Yes,12/09/2024
+1785,Freya Singh,Computing,Coventry,74.5,62.1,67.7,62.6,2.7,Yes,19/09/2024
+1786,Harry Green,Computing,Bristol,78.5,66.2,71.1,70.6,6.4,Yes,05/09/2024
+1787,Lily Young,Digital Media,Birmingham,64.9,49.3,78.6,79.7,5.8,Yes,22/09/2024
+1788,Adam Collins,IT,Liverpool,69.3,95.9,60.8,88.9,5.8,No,18/09/2024
+1789,Logan Robinson,Computing,Reading,90,87.8,54.3,41.9,12.5,Yes,20/09/2024
+1790,Ryan Taylor,Cyber Security,Nottingham,70.2,66.5,79.2,42.6,2.9,Yes,26/09/2024
+1791,Bradley Thompson,IT,Reading,89.9,66.5,85.5,78.6,7.3,Yes,09/09/2024
+1792,Grace Williams,Software Development,Leicester,83.8,63.9,68.7,69.3,7.3,Yes,04/09/2024
+1793,Sienna Singh,Software Development,Leeds,97.2,54.4,78.1,70.7,5,No,25/09/2024
+1794,Adam Thompson,Computing,Birmingham,92.9,87.6,89.8,96.4,2.8,Yes,14/09/2024
+1795,Kai Robinson,Digital Media,Birmingham,82.3,69.9,71.2,56.9,3,Yes,15/09/2024
+1796,Ella Walker,Business IT,Sheffield,82.6,93.9,84.8,58.8,4,Yes,14/09/2024
+1797,Bethany Evans,IT,Bristol,91.7,74.7,57.9,67.4,7.1,Yes,26/09/2024
+1798,Jasmine Brown,IT,Manchester,75.1,77.6,78.5,43,7.2,Yes,10/09/2024
+1799,Isaac Clarke,Computing,Sheffield,88.8,51.5,97.5,75.2,8.2,No,02/09/2024
+1800,Isla Roberts,Cyber Security,Nottingham,75.6,45.7,69,68.1,6.4,Yes,05/09/2024
+1801,Cameron Griffiths,Business IT,Birmingham,98.5,65.4,71.7,60.1,6.6,Yes,16/09/2024
+1802,Jasmine Ali,Cyber Security,Reading,81.9,73.1,61.9,81.2,2.3,No,03/09/2024
+1803,Logan Evans,Digital Media,,66.6,72.8,77.4,85.1,7.6,Yes,18/09/2024
+1804,Anaya Morgan,Cyber Security,Leeds,90.5,69.1,68.7,62.7,2.2,Yes,09/09/2024
+1805,Ella Harris,Business IT,Liverpool,72.7,56.9,60.9,56.2,3.4,Yes,26/09/2024
+1806,Noah Campbell,Computing,Bristol,76.5,63.6,62.6,64.1,6.1,No,17/09/2024
+1807,Imogen Morris,Computing,Cardiff,96.5,78.3,71.2,82.2,3.3,Yes,03/09/2024
+1808,Oscar King,Computing,Manchester,86.5,48,,98.3,9.3,Yes,06/09/2024
+1809,Joshua Jackson,Business IT,Sheffield,82.2,71.6,75.7,86.8,9.9,Yes,24/09/2024
+1810,Joshua King,Computing,Reading,77.1,70,74,83.3,2,Yes,18/09/2024
+1811,Jacob Ahmed,Computing,Reading,79.1,80.4,87,87.2,4.6,No,10/09/2024
+1812,Molly Ahmed,Computing,Sheffield,74.2,64.1,67.8,67.8,1.1,Yes,21/09/2024
+1813,Abigail Harris,IT,Leeds,100,90.1,61.6,63.7,3.8,Yes,10/09/2024
+1814,Abigail Morgan,Business IT,Bristol,82.3,71.6,53.1,52.4,6.2,Yes,26/09/2024
+1012,Noah Edwards,Computing,Reading,97.2,62.4,54.4,88.6,10.1,Yes,18/09/2024
+1816,Freya Allen,Business IT,Liverpool,79.5,51.8,,71.9,4.7,Yes,21/09/2024
+1817,Sarah Patel,Cyber Security,Leicester,80.1,84.4,56.8,71.9,5,No,15/09/2024
+1818,Brooke Collins,Computing,,61.2,83.2,75.1,82.1,9.1,Yes,25/09/2024
+1819,Jack Walker,Software Development,Leicester,77.7,81.4,83.9,58.5,6.3,Yes,21/09/2024
+1820,Ryan Mitchell,Computing,Bristol,86.9,,63.5,74.5,4.3,Yes,17/09/2024
+1821,Anaya Adams,IT,Leeds,80.5,75.5,66.8,71.6,3,Yes,22/09/2024
+1822,Emily Griffiths,IT,Cardiff,68.6,60.4,66.8,59.9,3.6,Yes,19/09/2024
+1823,Blake Walker,Computing,Manchester,78.6,76,76.6,52.2,5.5,No,20/09/2024
+1824,Ryan Edwards,Computing,Leeds,69.2,75.7,71.6,72.6,4,Yes,02/09/2024
+1825,Thomas Wright,Cyber Security,Leicester,69.8,72,72.6,59.6,2.1,Yes,13/09/2024
+1826,Fatima Collins,Software Development,Liverpool,90.8,64,49.7,54.9,4.3,No,23/09/2024
+1827,Dylan Ahmed,Software Development,,80.3,58.1,57.2,78.9,9.2,Yes,13/09/2024
+1828,Olivia Johnson,Cyber Security,London,61.6,60.1,66.5,96.4,2.5,Yes,02/09/2024
+1829,Samuel Khan,Computing,Reading,76.5,60,86.6,76.4,9,Yes,21/09/2024
+1830,Zara Wright,Computing,Bristol,82.3,97.1,76.6,83.1,8.5,No,06/09/2024
+1831,Olivia Singh,Digital Media,Bristol,90.3,79.4,79.8,69,5,No,12/09/2024
+1832,Aaron Taylor,IT,Leicester,77.7,67.7,68.2,77.5,2.8,No,04/09/2024
+1833,Sophia King,Computing,Reading,93.3,44.1,66.2,86.6,7.3,No,04/09/2024
+1834,Ben Cooper,Business IT,Manchester,87.3,62.5,87.4,78.5,5.5,Yes,22/09/2024
+1835,Grace Harris,Business IT,Leicester,99.6,60.8,71.7,47.1,4.4,Yes,10/09/2024
+1836,Ethan Cooper,Software Development,Liverpool,89,66.7,63.1,51.6,5.5,Yes,22/09/2024
+1837,Lucas Clarke,Cyber Security,Leeds,90.7,69.5,61,53.2,4.8,No,19/09/2024
+1838,Eva Green,Computing,Liverpool,88.8,76.3,73.2,65.1,4,Yes,20/09/2024
+1839,Aisha Hill,Digital Media,Leicester,64,91.7,79.4,83.4,2.6,Yes,13/09/2024
+1840,Abigail Martin,Business IT,Nottingham,99.3,53.3,61.7,68.1,2.6,Yes,25/09/2024
+1841,Jacob Ali,Software Development,Leeds,81,42.1,59.5,69.4,6.2,Yes,02/09/2024
+1842,William Davies,Software Development,Coventry,52,70.1,65.7,52.3,10.6,No,11/09/2024
+1843,Maya Collins,Cyber Security,Leicester,92.7,91.5,70.4,75.4,5.4,Yes,09/09/2024
+1844,Aaliyah Moore,Computing,Birmingham,86.4,50.5,75.3,60.2,0.5,Yes,16/09/2024
+1845,Callum Hill,Business IT,Manchester,71.1,76.8,68.3,90.5,7.6,Yes,13/09/2024
+1846,Finley Scott,Computing,Leeds,68.4,61.9,80,78.5,2.3,No,04/09/2024
+1847,Fatima Harris,Cyber Security,Bristol,73.8,75.5,78,79.8,4.1,Yes,15/09/2024
+1848,Blake Mitchell,Business IT,Bristol,67.8,67.6,66.9,86.4,2,Yes,12/09/2024
+1849,Aaron Morgan,Digital Media,Leicester,63.6,82.9,69,80.2,3.1,No,16/09/2024
+1850,Yasmin Johnson,Computing,Manchester,67.8,85.9,70.2,54.4,7.7,Yes,12/09/2024
+1851,Poppy Lewis,Computing,Liverpool,100,76.5,68.3,71.1,3.4,Yes,23/09/2024
+1852,Dylan Hall,IT,London,72.8,59.7,75.3,76.6,5.6,No,19/09/2024
+1853,Sienna Lewis,Software Development,Bristol,95.5,66.5,72.8,96.1,7.3,Yes,16/09/2024
+1854,Ava Hughes,Software Development,Reading,63.6,65.8,83.5,79.4,8.9,No,25/09/2024
+1855,Bradley Wilson,Computing,Liverpool,94.2,69.4,51.3,63.9,5,Yes,08/09/2024
+1856,Sophia Taylor,Computing,Cardiff,75.7,86.5,62.3,68,7.7,Yes,15/09/2024
+1857,Abigail Turner,IT,Birmingham,65.4,56.5,,60.1,2.5,Yes,17/09/2024
+1858,Olivia Clarke,Cyber Security,Reading,86.1,54,72.1,76.7,7.4,Yes,23/09/2024
+1859,Layla Begum,Computing,Sheffield,72.8,77.9,64.8,89.2,8.6,Yes,13/09/2024
+1860,Sarah Foster,IT,Sheffield,81.8,82,84.1,73.7,4.4,Yes,05/09/2024
+1861,Mia Phillips,IT,Leeds,66,78.6,67.2,82.1,9.2,No,26/09/2024
+1862,Finley Khan,Cyber Security,Nottingham,93.1,63.3,98.6,85.7,9.4,Yes,02/09/2024
+1863,Dylan Thomas,Software Development,Cardiff,69,63.5,65.2,74.5,7,Yes,18/09/2024
+1864,Abigail Hill,Digital Media,Manchester,80.4,56.7,66.3,81.3,6.5,No,22/09/2024
+1865,Daisy Mitchell,IT,Leeds,90.7,97.3,81.3,64.1,3.9,Yes,16/09/2024
+1866,George Wilson,Computing,Nottingham,100,63.7,72,60,4,No,07/09/2024
+1867,Aisha Thomas,Digital Media,Sheffield,100,69.3,83.3,76.2,5.1,Yes,26/09/2024
+1868,Olivia Moore,Business IT,London,96.4,66.5,83.7,80.5,1.6,Yes,24/09/2024
+1869,Brooke Brown,Computing,Liverpool,79.7,52.9,77,48.4,3,Yes,09/09/2024
+1870,Archie Mitchell,Software Development,Nottingham,91,70.3,51.8,58.3,8.4,Yes,16/09/2024
+1871,Cameron Clarke,Cyber Security,London,80.9,82.3,65.5,78.8,6.6,Yes,17/09/2024
+1872,Callum Clarke,Digital Media,Cardiff,76.8,69.6,80.6,81,2.7,Yes,02/09/2024
+1873,Tyler Khan,Cyber Security,Manchester,94.6,66.8,59.9,61.4,3,No,22/09/2024
+1504,Imogen Hall,Computing,Cardiff,97.4,87.5,89.3,88.5,8.1,Yes,23/09/2024
+1875,William Evans,Business IT,Bristol,73.3,58.7,80.7,77.3,8.1,Yes,25/09/2024
+1876,Oscar Roberts,Cyber Security,Leeds,84.7,69.2,91.7,62.5,2.1,Yes,24/09/2024
+1877,Isaac Begum,Business IT,Reading,80.9,65.9,84,60.3,6.9,Yes,20/09/2024
+1001,Bradley Ahmed,Computing,Leeds,97.2,90.9,60.7,88.3,7.1,Yes,08/09/2024
+1879,Oliver Campbell,Digital Media,Nottingham,80.2,61.6,77.7,51.8,5.2,No,21/09/2024
+1880,Jacob Green,Software Development,Leeds,79.1,59.4,87.2,50.4,5.2,Yes,26/09/2024
+1881,Sienna Collins,Computing,Cardiff,76.7,64.9,79.1,60.2,3.6,Yes,05/09/2024
+1882,Jasmine Williams,Cyber Security,Birmingham,60.1,58.1,46.8,75.2,8.8,Yes,08/09/2024
+1883,Daisy Hill,Software Development,Nottingham,67.9,51.2,73.8,59.1,7.8,No,11/09/2024
+1884,James Lewis,Cyber Security,Cardiff,73.9,100,73,83.5,6.1,Yes,06/09/2024
+1885,Ethan Edwards,Digital Media,Liverpool,76,82.1,62.7,92.3,3.9,Yes,08/09/2024
+1886,Archie Foster,Computing,Reading,91.5,49.4,74.4,33.4,6.5,Yes,23/09/2024
+1887,Grace Griffiths,Software Development,Coventry,75.4,74.3,65.8,61.3,1.6,Yes,06/09/2024
+1888,Mohammed Young,Computing,Manchester,97.2,55.6,63.6,56.1,4.3,Yes,19/09/2024
+1889,Jack Thompson,Computing,Birmingham,90.7,55.4,69.9,34.9,2.6,No,08/09/2024
+1890,Joshua Davies,Digital Media,Reading,93.5,69,88.3,77,4.8,Yes,15/09/2024
+1891,William Allen,Software Development,Sheffield,69.1,82,100,69,6.8,Yes,11/09/2024
+1892,Ben Phillips,Business IT,Sheffield,72,78.5,84.1,80.9,2.8,Yes,22/09/2024
+1893,Oliver Young,IT,Nottingham,100,43.2,78.2,80.2,6.6,Yes,26/09/2024
+1894,Jack Adams,Digital Media,Cardiff,92.1,79.2,73,60.3,6.1,Yes,23/09/2024
+1895,Ethan Williams,Business IT,Bristol,92.7,57.2,65.1,65.8,6.5,Yes,19/09/2024
+1896,Anaya Hill,Software Development,Leeds,86.6,65.2,65.2,92.3,11.6,Yes,08/09/2024
+1897,Olivia Campbell,Business IT,Cardiff,100,74.2,77,62.4,7.8,Yes,26/09/2024
+1898,Dylan Morris,Software Development,Reading,82.6,62.3,71.3,78.3,10.8,No,13/09/2024
+1899,Ben Wright,Cyber Security,Nottingham,78.8,76.3,70.6,70.5,6.1,No,13/09/2024
+1900,Jacob Evans,Software Development,Birmingham,68.5,56.1,54.3,71.8,5,No,25/09/2024
+1901,Grace Cooper,Cyber Security,Manchester,73,69.2,68.7,70.7,3.9,No,11/09/2024
+1902,Tyler Clarke,Business IT,Leicester,74.7,81.1,94.4,76.4,6.2,Yes,11/09/2024
+1903,Jessica Ahmed,Business IT,,91.2,72.6,71.4,62.2,2.8,No,25/09/2024
+1904,Finley Begum,IT,,86.5,81.2,80.9,97.4,4.8,Yes,06/09/2024
+1905,Hannah Carter,IT,Sheffield,68.9,83.4,69.1,54.4,5.3,Yes,09/09/2024
+1255,Ella Hall,Computing,Manchester,90.6,49.1,47.3,87.7,9.8,Yes,09/09/2024
+1907,Tyler Murphy,Cyber Security,Liverpool,79.4,63.1,56.4,79.7,0.5,Yes,14/09/2024
+1908,Aaron Clarke,Digital Media,Leeds,66.7,76,81,55.5,4.1,Yes,22/09/2024
+1909,Fatima Mitchell,Digital Media,Sheffield,62.1,77.9,63.9,56.1,1.1,Yes,12/09/2024
+1910,Bethany Taylor,Business IT,Sheffield,100,68.2,92.9,67.2,5.5,Yes,05/09/2024
+1911,Jack Carter,Software Development,Liverpool,65.7,74.8,100,56.5,6.8,No,18/09/2024
+1912,Abigail Davies,Business IT,Bristol,77.8,47.7,68.7,54.1,4.2,Yes,19/09/2024
+1913,William Collins,IT,Birmingham,72.4,53.3,77.4,62.2,8.8,Yes,21/09/2024
+1914,Mia Hall,IT,Sheffield,71.6,97.1,67.6,62.6,5.6,No,02/09/2024
+1915,Eva Walker,Digital Media,Birmingham,89.5,74.9,85.8,90.4,5.7,No,09/09/2024
+1916,Emily Foster,Business IT,Birmingham,59.1,74.7,100,79,7.2,No,20/09/2024
+1917,Isaac White,IT,Leicester,86,77.5,85.5,81.8,1.8,Yes,05/09/2024
+1918,Kai Griffiths,Software Development,London,81.9,49.9,89.1,81.9,7.1,Yes,24/09/2024
+1919,Finley Murphy,Computing,Reading,67.2,59.4,56.3,91.5,3,No,15/09/2024
+1920,Thomas Hughes,IT,Liverpool,61,75.4,71.5,90.4,7.9,Yes,17/09/2024
+1921,Sarah Phillips,Digital Media,Coventry,69.5,81.1,82.5,63.8,2.7,No,05/09/2024
+1922,Maya Turner,Business IT,Bristol,70.2,61.6,61.7,42.9,6.5,Yes,14/09/2024
+1923,Adam Edwards,Cyber Security,London,72.3,61.5,68.8,83.9,7.9,No,13/09/2024
+1924,Oscar Wilson,Computing,Nottingham,81.2,64.2,55.8,71,3.9,Yes,19/09/2024
+1925,Dylan Morgan,Business IT,Bristol,70.8,83,82.6,35.8,4.5,No,04/09/2024
+1926,Ella White,IT,Liverpool,87.6,79.3,61.1,62.2,7.5,Yes,07/09/2024
+1927,James Morris,Digital Media,Sheffield,75,86,79.3,87.5,6.2,Yes,23/09/2024
+1928,Yasmin Jackson,IT,Cardiff,81.2,95.9,90.2,81.5,0.7,Yes,20/09/2024
+1929,Alex Foster,Cyber Security,Leicester,81.5,69.9,75,91.3,6.2,Yes,08/09/2024
+1930,Samuel Martin,IT,Sheffield,100,78.5,71.9,76.6,8,Yes,20/09/2024
+1931,Liam Wright,Business IT,Cardiff,62.8,90.3,81.7,65.3,1.5,Yes,24/09/2024
+1932,Sophia Turner,Cyber Security,Bristol,100,89.2,85.7,71.8,7.5,Yes,19/09/2024
+1933,Amelia Mitchell,Digital Media,Nottingham,75.6,67.4,74.5,69.9,2,No,17/09/2024
+1934,Anaya Walker,IT,Liverpool,84.1,89.8,65.7,66.3,2.6,Yes,06/09/2024
+1935,Yasmin Thompson,Digital Media,Bristol,81.2,93.1,59.7,69.3,6,Yes,02/09/2024
+1936,Anaya Murphy,IT,Manchester,48.4,68.9,63,51,2.9,Yes,07/09/2024
+1937,Bethany Khan,Cyber Security,Leicester,70.4,78.6,69.8,62.8,4.7,Yes,24/09/2024
+1938,Harry Khan,Computing,Bristol,83.1,88.3,70.5,57.5,8.7,Yes,02/09/2024
+1939,Lily Brown,Computing,Sheffield,88.8,70.9,64.5,93.6,3.2,Yes,07/09/2024
+1940,Fatima Jackson,Computing,Leicester,74.6,85,63.5,43.6,3,Yes,26/09/2024
+1874,Logan Adams,Computing,Birmingham,96.7,63.9,80.6,87.3,11.3,Yes,05/09/2024
+1942,Daniel Shah,Software Development,Nottingham,76.9,84.8,65.4,58.3,7,Yes,19/09/2024
+1632,Isaac Turner,Computing,Leicester,94.3,77.2,59.7,87.2,8.6,Yes,12/09/2024
+1944,Zara Smith,Computing,Bristol,86.7,84.5,,64.8,8.5,Yes,14/09/2024
+1945,Samuel Shah,IT,Nottingham,97.9,68.9,74.4,48.5,4.6,No,11/09/2024
+1946,Amelia Patel,Computing,Liverpool,78.4,60.9,79.4,44.6,4.2,Yes,15/09/2024
+1947,Lily Thomas,Digital Media,Leeds,100,88.5,86.8,56.2,6.8,Yes,22/09/2024
+1948,Bradley Hall,Computing,Leeds,82.3,54.5,49.5,65.8,6.6,Yes,09/09/2024
+1949,Chloe Scott,IT,Leicester,77.7,99.3,64,50,7,No,22/09/2024
+1950,Mohammed Jones,IT,Leeds,73.5,76.1,59.3,54.1,3.3,Yes,24/09/2024
+1951,Archie Singh,Computing,Manchester,89.4,61.3,76.3,81.4,7,Yes,24/09/2024
+1952,Brooke Khan,Business IT,Leeds,76.1,85.7,67.3,62.7,5.3,No,17/09/2024
+1170,Lucas Thomas,Computing,Bristol,97.3,54.1,85.1,86.2,11.3,Yes,25/09/2024
+1954,Layla Mitchell,Computing,Leicester,71.4,81.9,76.1,85.7,4.4,Yes,22/09/2024
+1955,Olivia Baker,Business IT,Coventry,65.2,,91.2,98.3,8.7,Yes,19/09/2024
+1956,Jessica Johnson,Computing,Birmingham,84.8,69.4,70.8,74.9,5.3,Yes,20/09/2024
+1957,Zara Baker,Computing,Nottingham,93.6,62.8,68.6,89,1.5,Yes,21/09/2024
+1958,Samuel Clarke,Cyber Security,Bristol,84.7,71.7,81.7,65.7,0.5,Yes,10/09/2024
+1959,Jacob Clarke,Computing,Cardiff,75.6,54.3,73.8,84.1,6.5,No,15/09/2024
+1960,Lucas Mitchell,IT,Bristol,70.3,66.5,66.5,59.7,5,Yes,20/09/2024
+1080,Callum Patel,Computing,Manchester,94,90.1,87.3,85.5,8.1,Yes,20/09/2024
+1962,Kai Phillips,Software Development,Leicester,75.8,58.3,81.6,76.4,7.7,Yes,14/09/2024
+1963,Daniel Smith,IT,Leeds,84.6,79.2,72.5,92.9,5.5,Yes,26/09/2024
+1964,Anaya Begum,Computing,London,66.3,67.2,76.5,82,4.4,No,08/09/2024
+1965,Jasmine Robinson,Software Development,Nottingham,62.1,73.2,70.6,76.3,0.5,Yes,15/09/2024
+1966,Isaac Thompson,Business IT,Leeds,70,89,69.4,79.2,7.4,No,06/09/2024
+1967,Liam Martin,Digital Media,Manchester,76.9,70.8,54.1,71.1,4.1,Yes,13/09/2024
+1968,Maya Clarke,Computing,Leicester,87.3,76,88.1,63.5,9.4,No,13/09/2024
+1969,Molly Collins,IT,Liverpool,82.2,79.9,45.5,66,0.5,Yes,09/09/2024
+1492,Jacob Baker,Computing,Cardiff,96.5,85.5,61.2,85.4,7.6,Yes,06/09/2024
+1971,Logan Jones,Computing,Leicester,77.6,82.5,62.4,82.5,7.8,Yes,06/09/2024
+1972,Sarah Hall,IT,Nottingham,78.5,,69.5,63.8,3.5,Yes,05/09/2024
+1973,Grace Baker,Computing,Birmingham,90.2,89.3,76.3,42.5,5.7,No,21/09/2024
+1974,Poppy Singh,Software Development,Leicester,79.1,75.2,75.8,67.3,3.8,No,04/09/2024
+1975,Oliver Wilson,Digital Media,Leeds,83.3,71.6,65.7,85.5,3.7,No,21/09/2024
+1976,Amir Martin,Computing,London,80.1,100,87.6,67.6,10.2,Yes,08/09/2024
+1977,Ella Hill,Business IT,Leeds,87.2,85.7,58.4,59.6,3.3,Yes,13/09/2024
+1978,Hannah Hall,Business IT,Birmingham,78.6,84,77.3,74,4.8,No,15/09/2024
+1979,Ben Hill,Digital Media,Bristol,74.2,53.2,87.1,65.4,5,Yes,17/09/2024
+1980,Ruby Mitchell,IT,Cardiff,69.5,42.9,77.8,62.6,5.7,No,15/09/2024
+1981,Logan Singh,Computing,Bristol,98.4,72,68.1,62.7,4,Yes,14/09/2024
+1982,Sienna Khan,Computing,Sheffield,75.1,68.5,79.7,57.1,3.5,Yes,07/09/2024
+1983,Blake Baker,Software Development,Reading,70,71.6,74.7,100,6.1,Yes,11/09/2024
+1984,Noah Shah,Computing,Manchester,68.2,58.3,70,55,7.9,Yes,20/09/2024
+1985,Eva Hill,Digital Media,Bristol,63.2,49.1,62.4,71.7,3,Yes,06/09/2024
+1986,Freya Turner,Digital Media,Leeds,95.5,73.8,63.6,42.8,3.3,Yes,05/09/2024
+1987,Ruby Scott,Software Development,,77.8,84.1,75.6,45.6,5.1,No,03/09/2024
+1988,Leo Young,Digital Media,Sheffield,85,76.3,79.6,52.7,11.6,Yes,19/09/2024
+1989,Brooke Hall,Business IT,Reading,89,59.5,62.9,69.7,2.6,No,11/09/2024
+1990,Molly Begum,IT,Manchester,91,58,75.9,78.4,7.5,Yes,10/09/2024
+1991,Isla Collins,Digital Media,Bristol,84.4,68.2,82.3,56.9,3.9,No,19/09/2024
+1992,Dylan Hill,Digital Media,London,86,62.9,63.7,70.2,4.6,Yes,25/09/2024
+1993,Anaya Carter,Computing,Sheffield,88,87.6,81.5,77.2,4.7,Yes,04/09/2024
+1994,Maya Thompson,Computing,Birmingham,82.5,75.6,60,93.1,8.8,Yes,09/09/2024
+1995,Finley Moore,Computing,Leeds,80.4,,78.3,67.8,4.3,Yes,14/09/2024
+1996,Molly Phillips,Computing,Leeds,88.9,62.5,67.6,68.5,5.2,Yes,20/09/2024
+1997,Maya Edwards,Computing,London,94.6,59.1,69,87.5,3.9,Yes,21/09/2024
+1998,Maya Campbell,Digital Media,Nottingham,78.6,87.4,74.9,60.3,3,Yes,07/09/2024
+1999,Eva Davies,Business IT,Reading,78.6,45.4,60.5,44,6.2,Yes,22/09/2024
+2000,Fatima Morris,Computing,London,69.5,71.7,79.4,61.7,7.7,Yes,25/09/2024
