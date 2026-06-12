@@ -1,3 +1,9 @@
+Learning Pandas with Python
+import pandas as pd
+import numpy as np
+
+
+
 print(df.head()) #first five rows
 print(df.tail()) #last 5 rows
 print(df.shape) #rows and columns
